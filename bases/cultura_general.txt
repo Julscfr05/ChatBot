@@ -1,0 +1,500 @@
+p:Qué es parís?r:La capital de Francia.
+p:Cuál es la capital de Francia?r:La capital de Francia.
+p:A qué país pertenece parís?r:La capital de Francia.
+p:Dónde se ubica parís?r:La capital de Francia.
+p:Por qué es importante parís?r:La capital de Francia.
+p:Cómo se describe parís?r:La capital de Francia.
+p:Dame una explicación breve de parís?r:La capital de Francia.
+p:Háblame de parís?r:La capital de Francia.
+p:Qué información básica tienes sobre parís?r:La capital de Francia.
+p:Qué sabes de parís?r:La capital de Francia.
+p:Qué es tokio?r:La capital de Japón.
+p:Cuál es la capital de Japón?r:La capital de Japón.
+p:A qué país pertenece tokio?r:La capital de Japón.
+p:Dónde se ubica tokio?r:La capital de Japón.
+p:Por qué es importante tokio?r:La capital de Japón.
+p:Cómo se describe tokio?r:La capital de Japón.
+p:Dame una explicación breve de tokio?r:La capital de Japón.
+p:Háblame de tokio?r:La capital de Japón.
+p:Qué información básica tienes sobre tokio?r:La capital de Japón.
+p:Qué sabes de tokio?r:La capital de Japón.
+p:Qué es bogotá?r:La capital de Colombia.
+p:Cuál es la capital de Colombia?r:La capital de Colombia.
+p:A qué país pertenece bogotá?r:La capital de Colombia.
+p:Dónde se ubica bogotá?r:La capital de Colombia.
+p:Por qué es importante bogotá?r:La capital de Colombia.
+p:Cómo se describe bogotá?r:La capital de Colombia.
+p:Dame una explicación breve de bogotá?r:La capital de Colombia.
+p:Háblame de bogotá?r:La capital de Colombia.
+p:Qué información básica tienes sobre bogotá?r:La capital de Colombia.
+p:Qué sabes de bogotá?r:La capital de Colombia.
+p:Qué es madrid?r:La capital de España.
+p:Cuál es la capital de España?r:La capital de España.
+p:A qué país pertenece madrid?r:La capital de España.
+p:Dónde se ubica madrid?r:La capital de España.
+p:Por qué es importante madrid?r:La capital de España.
+p:Cómo se describe madrid?r:La capital de España.
+p:Dame una explicación breve de madrid?r:La capital de España.
+p:Háblame de madrid?r:La capital de España.
+p:Qué información básica tienes sobre madrid?r:La capital de España.
+p:Qué sabes de madrid?r:La capital de España.
+p:Qué es roma?r:La capital de Italia.
+p:Cuál es la capital de Italia?r:La capital de Italia.
+p:A qué país pertenece roma?r:La capital de Italia.
+p:Dónde se ubica roma?r:La capital de Italia.
+p:Por qué es importante roma?r:La capital de Italia.
+p:Cómo se describe roma?r:La capital de Italia.
+p:Dame una explicación breve de roma?r:La capital de Italia.
+p:Háblame de roma?r:La capital de Italia.
+p:Qué información básica tienes sobre roma?r:La capital de Italia.
+p:Qué sabes de roma?r:La capital de Italia.
+p:Qué es londres?r:La capital del Reino Unido.
+p:Cuál es la capital de Reino Unido?r:La capital del Reino Unido.
+p:A qué país pertenece londres?r:La capital del Reino Unido.
+p:Dónde se ubica londres?r:La capital del Reino Unido.
+p:Por qué es importante londres?r:La capital del Reino Unido.
+p:Cómo se describe londres?r:La capital del Reino Unido.
+p:Dame una explicación breve de londres?r:La capital del Reino Unido.
+p:Háblame de londres?r:La capital del Reino Unido.
+p:Qué información básica tienes sobre londres?r:La capital del Reino Unido.
+p:Qué sabes de londres?r:La capital del Reino Unido.
+p:Qué es ottawa?r:La capital de Canadá.
+p:Cuál es la capital de Canadá?r:La capital de Canadá.
+p:A qué país pertenece ottawa?r:La capital de Canadá.
+p:Dónde se ubica ottawa?r:La capital de Canadá.
+p:Por qué es importante ottawa?r:La capital de Canadá.
+p:Cómo se describe ottawa?r:La capital de Canadá.
+p:Dame una explicación breve de ottawa?r:La capital de Canadá.
+p:Háblame de ottawa?r:La capital de Canadá.
+p:Qué información básica tienes sobre ottawa?r:La capital de Canadá.
+p:Qué sabes de ottawa?r:La capital de Canadá.
+p:Qué es berlín?r:La capital de Alemania.
+p:Cuál es la capital de Alemania?r:La capital de Alemania.
+p:A qué país pertenece berlín?r:La capital de Alemania.
+p:Dónde se ubica berlín?r:La capital de Alemania.
+p:Por qué es importante berlín?r:La capital de Alemania.
+p:Cómo se describe berlín?r:La capital de Alemania.
+p:Dame una explicación breve de berlín?r:La capital de Alemania.
+p:Háblame de berlín?r:La capital de Alemania.
+p:Qué información básica tienes sobre berlín?r:La capital de Alemania.
+p:Qué sabes de berlín?r:La capital de Alemania.
+p:Qué es lisboa?r:La capital de Portugal.
+p:Cuál es la capital de Portugal?r:La capital de Portugal.
+p:A qué país pertenece lisboa?r:La capital de Portugal.
+p:Dónde se ubica lisboa?r:La capital de Portugal.
+p:Por qué es importante lisboa?r:La capital de Portugal.
+p:Cómo se describe lisboa?r:La capital de Portugal.
+p:Dame una explicación breve de lisboa?r:La capital de Portugal.
+p:Háblame de lisboa?r:La capital de Portugal.
+p:Qué información básica tienes sobre lisboa?r:La capital de Portugal.
+p:Qué sabes de lisboa?r:La capital de Portugal.
+p:Qué es buenos aires?r:La capital de Argentina.
+p:Cuál es la capital de Argentina?r:La capital de Argentina.
+p:A qué país pertenece buenos aires?r:La capital de Argentina.
+p:Dónde se ubica buenos aires?r:La capital de Argentina.
+p:Por qué es importante buenos aires?r:La capital de Argentina.
+p:Cómo se describe buenos aires?r:La capital de Argentina.
+p:Dame una explicación breve de buenos aires?r:La capital de Argentina.
+p:Háblame de buenos aires?r:La capital de Argentina.
+p:Qué información básica tienes sobre buenos aires?r:La capital de Argentina.
+p:Qué sabes de buenos aires?r:La capital de Argentina.
+p:Qué es ciudad de méxico?r:La capital de México.
+p:Cuál es la capital de México?r:La capital de México.
+p:A qué país pertenece ciudad de méxico?r:La capital de México.
+p:Dónde se ubica ciudad de méxico?r:La capital de México.
+p:Por qué es importante ciudad de méxico?r:La capital de México.
+p:Cómo se describe ciudad de méxico?r:La capital de México.
+p:Dame una explicación breve de ciudad de méxico?r:La capital de México.
+p:Háblame de ciudad de méxico?r:La capital de México.
+p:Qué información básica tienes sobre ciudad de méxico?r:La capital de México.
+p:Qué sabes de ciudad de méxico?r:La capital de México.
+p:Qué es santiago?r:La capital de Chile.
+p:Cuál es la capital de Chile?r:La capital de Chile.
+p:A qué país pertenece santiago?r:La capital de Chile.
+p:Dónde se ubica santiago?r:La capital de Chile.
+p:Por qué es importante santiago?r:La capital de Chile.
+p:Cómo se describe santiago?r:La capital de Chile.
+p:Dame una explicación breve de santiago?r:La capital de Chile.
+p:Háblame de santiago?r:La capital de Chile.
+p:Qué información básica tienes sobre santiago?r:La capital de Chile.
+p:Qué sabes de santiago?r:La capital de Chile.
+p:Qué es lima?r:La capital de Perú.
+p:Cuál es la capital de Perú?r:La capital de Perú.
+p:A qué país pertenece lima?r:La capital de Perú.
+p:Dónde se ubica lima?r:La capital de Perú.
+p:Por qué es importante lima?r:La capital de Perú.
+p:Cómo se describe lima?r:La capital de Perú.
+p:Dame una explicación breve de lima?r:La capital de Perú.
+p:Háblame de lima?r:La capital de Perú.
+p:Qué información básica tienes sobre lima?r:La capital de Perú.
+p:Qué sabes de lima?r:La capital de Perú.
+p:Qué es brasilia?r:La capital de Brasil.
+p:Cuál es la capital de Brasil?r:La capital de Brasil.
+p:A qué país pertenece brasilia?r:La capital de Brasil.
+p:Dónde se ubica brasilia?r:La capital de Brasil.
+p:Por qué es importante brasilia?r:La capital de Brasil.
+p:Cómo se describe brasilia?r:La capital de Brasil.
+p:Dame una explicación breve de brasilia?r:La capital de Brasil.
+p:Háblame de brasilia?r:La capital de Brasil.
+p:Qué información básica tienes sobre brasilia?r:La capital de Brasil.
+p:Qué sabes de brasilia?r:La capital de Brasil.
+p:Qué es cairo?r:La capital de Egipto.
+p:Cuál es la capital de Egipto?r:La capital de Egipto.
+p:A qué país pertenece cairo?r:La capital de Egipto.
+p:Dónde se ubica cairo?r:La capital de Egipto.
+p:Por qué es importante cairo?r:La capital de Egipto.
+p:Cómo se describe cairo?r:La capital de Egipto.
+p:Dame una explicación breve de cairo?r:La capital de Egipto.
+p:Háblame de cairo?r:La capital de Egipto.
+p:Qué información básica tienes sobre cairo?r:La capital de Egipto.
+p:Qué sabes de cairo?r:La capital de Egipto.
+p:Qué es canberra?r:La capital de Australia.
+p:Cuál es la capital de Australia?r:La capital de Australia.
+p:A qué país pertenece canberra?r:La capital de Australia.
+p:Dónde se ubica canberra?r:La capital de Australia.
+p:Por qué es importante canberra?r:La capital de Australia.
+p:Cómo se describe canberra?r:La capital de Australia.
+p:Dame una explicación breve de canberra?r:La capital de Australia.
+p:Háblame de canberra?r:La capital de Australia.
+p:Qué información básica tienes sobre canberra?r:La capital de Australia.
+p:Qué sabes de canberra?r:La capital de Australia.
+p:Qué es moscú?r:La capital de Rusia.
+p:Cuál es la capital de Rusia?r:La capital de Rusia.
+p:A qué país pertenece moscú?r:La capital de Rusia.
+p:Dónde se ubica moscú?r:La capital de Rusia.
+p:Por qué es importante moscú?r:La capital de Rusia.
+p:Cómo se describe moscú?r:La capital de Rusia.
+p:Dame una explicación breve de moscú?r:La capital de Rusia.
+p:Háblame de moscú?r:La capital de Rusia.
+p:Qué información básica tienes sobre moscú?r:La capital de Rusia.
+p:Qué sabes de moscú?r:La capital de Rusia.
+p:Qué es beijing?r:La capital de China.
+p:Cuál es la capital de China?r:La capital de China.
+p:A qué país pertenece beijing?r:La capital de China.
+p:Dónde se ubica beijing?r:La capital de China.
+p:Por qué es importante beijing?r:La capital de China.
+p:Cómo se describe beijing?r:La capital de China.
+p:Dame una explicación breve de beijing?r:La capital de China.
+p:Háblame de beijing?r:La capital de China.
+p:Qué información básica tienes sobre beijing?r:La capital de China.
+p:Qué sabes de beijing?r:La capital de China.
+p:Qué es nueva delhi?r:La capital de India.
+p:Cuál es la capital de India?r:La capital de India.
+p:A qué país pertenece nueva delhi?r:La capital de India.
+p:Dónde se ubica nueva delhi?r:La capital de India.
+p:Por qué es importante nueva delhi?r:La capital de India.
+p:Cómo se describe nueva delhi?r:La capital de India.
+p:Dame una explicación breve de nueva delhi?r:La capital de India.
+p:Háblame de nueva delhi?r:La capital de India.
+p:Qué información básica tienes sobre nueva delhi?r:La capital de India.
+p:Qué sabes de nueva delhi?r:La capital de India.
+p:Qué es washington d. c.?r:La capital de Estados Unidos.
+p:Cuál es la capital de Estados Unidos?r:La capital de Estados Unidos.
+p:A qué país pertenece washington d. c.?r:La capital de Estados Unidos.
+p:Dónde se ubica washington d. c.?r:La capital de Estados Unidos.
+p:Por qué es importante washington d. c.?r:La capital de Estados Unidos.
+p:Cómo se describe washington d. c.?r:La capital de Estados Unidos.
+p:Dame una explicación breve de washington d. c.?r:La capital de Estados Unidos.
+p:Háblame de washington d. c.?r:La capital de Estados Unidos.
+p:Qué información básica tienes sobre washington d. c.?r:La capital de Estados Unidos.
+p:Qué sabes de washington d. c.?r:La capital de Estados Unidos.
+p:Qué es miguel de cervantes?r:Autor de Don Quijote de la Mancha.
+p:Cuál es la capital de autor de Don Quijote de la Mancha?r:Autor de Don Quijote de la Mancha.
+p:A qué país pertenece miguel de cervantes?r:Autor de Don Quijote de la Mancha.
+p:Dónde se ubica miguel de cervantes?r:Autor de Don Quijote de la Mancha.
+p:Por qué es importante miguel de cervantes?r:Autor de Don Quijote de la Mancha.
+p:Cómo se describe miguel de cervantes?r:Autor de Don Quijote de la Mancha.
+p:Dame una explicación breve de miguel de cervantes?r:Autor de Don Quijote de la Mancha.
+p:Háblame de miguel de cervantes?r:Autor de Don Quijote de la Mancha.
+p:Qué información básica tienes sobre miguel de cervantes?r:Autor de Don Quijote de la Mancha.
+p:Qué sabes de miguel de cervantes?r:Autor de Don Quijote de la Mancha.
+p:Qué es leonardo da vinci?r:Pintor de la Mona Lisa y gran inventor.
+p:Cuál es la capital de pintor de la Mona Lisa y gran inventor?r:Pintor de la Mona Lisa y gran inventor.
+p:A qué país pertenece leonardo da vinci?r:Pintor de la Mona Lisa y gran inventor.
+p:Dónde se ubica leonardo da vinci?r:Pintor de la Mona Lisa y gran inventor.
+p:Por qué es importante leonardo da vinci?r:Pintor de la Mona Lisa y gran inventor.
+p:Cómo se describe leonardo da vinci?r:Pintor de la Mona Lisa y gran inventor.
+p:Dame una explicación breve de leonardo da vinci?r:Pintor de la Mona Lisa y gran inventor.
+p:Háblame de leonardo da vinci?r:Pintor de la Mona Lisa y gran inventor.
+p:Qué información básica tienes sobre leonardo da vinci?r:Pintor de la Mona Lisa y gran inventor.
+p:Qué sabes de leonardo da vinci?r:Pintor de la Mona Lisa y gran inventor.
+p:Qué es william shakespeare?r:Autor de Hamlet y muchas obras clásicas.
+p:Cuál es la capital de autor de Hamlet y muchas obras clásicas?r:Autor de Hamlet y muchas obras clásicas.
+p:A qué país pertenece william shakespeare?r:Autor de Hamlet y muchas obras clásicas.
+p:Dónde se ubica william shakespeare?r:Autor de Hamlet y muchas obras clásicas.
+p:Por qué es importante william shakespeare?r:Autor de Hamlet y muchas obras clásicas.
+p:Cómo se describe william shakespeare?r:Autor de Hamlet y muchas obras clásicas.
+p:Dame una explicación breve de william shakespeare?r:Autor de Hamlet y muchas obras clásicas.
+p:Háblame de william shakespeare?r:Autor de Hamlet y muchas obras clásicas.
+p:Qué información básica tienes sobre william shakespeare?r:Autor de Hamlet y muchas obras clásicas.
+p:Qué sabes de william shakespeare?r:Autor de Hamlet y muchas obras clásicas.
+p:Qué es homero?r:Poeta asociado a La Odisea.
+p:Cuál es la capital de poeta asociado a La Odisea?r:Poeta asociado a La Odisea.
+p:A qué país pertenece homero?r:Poeta asociado a La Odisea.
+p:Dónde se ubica homero?r:Poeta asociado a La Odisea.
+p:Por qué es importante homero?r:Poeta asociado a La Odisea.
+p:Cómo se describe homero?r:Poeta asociado a La Odisea.
+p:Dame una explicación breve de homero?r:Poeta asociado a La Odisea.
+p:Háblame de homero?r:Poeta asociado a La Odisea.
+p:Qué información básica tienes sobre homero?r:Poeta asociado a La Odisea.
+p:Qué sabes de homero?r:Poeta asociado a La Odisea.
+p:Qué es gabriel garcía márquez?r:Escritor colombiano ganador del Nobel.
+p:Cuál es la capital de escritor colombiano ganador del Nobel?r:Escritor colombiano ganador del Nobel.
+p:A qué país pertenece gabriel garcía márquez?r:Escritor colombiano ganador del Nobel.
+p:Dónde se ubica gabriel garcía márquez?r:Escritor colombiano ganador del Nobel.
+p:Por qué es importante gabriel garcía márquez?r:Escritor colombiano ganador del Nobel.
+p:Cómo se describe gabriel garcía márquez?r:Escritor colombiano ganador del Nobel.
+p:Dame una explicación breve de gabriel garcía márquez?r:Escritor colombiano ganador del Nobel.
+p:Háblame de gabriel garcía márquez?r:Escritor colombiano ganador del Nobel.
+p:Qué información básica tienes sobre gabriel garcía márquez?r:Escritor colombiano ganador del Nobel.
+p:Qué sabes de gabriel garcía márquez?r:Escritor colombiano ganador del Nobel.
+p:Qué es gabriela mistral?r:Poeta chilena ganadora del Nobel.
+p:Cuál es la capital de poeta chilena ganadora del Nobel?r:Poeta chilena ganadora del Nobel.
+p:A qué país pertenece gabriela mistral?r:Poeta chilena ganadora del Nobel.
+p:Dónde se ubica gabriela mistral?r:Poeta chilena ganadora del Nobel.
+p:Por qué es importante gabriela mistral?r:Poeta chilena ganadora del Nobel.
+p:Cómo se describe gabriela mistral?r:Poeta chilena ganadora del Nobel.
+p:Dame una explicación breve de gabriela mistral?r:Poeta chilena ganadora del Nobel.
+p:Háblame de gabriela mistral?r:Poeta chilena ganadora del Nobel.
+p:Qué información básica tienes sobre gabriela mistral?r:Poeta chilena ganadora del Nobel.
+p:Qué sabes de gabriela mistral?r:Poeta chilena ganadora del Nobel.
+p:Qué es albert einstein?r:Físico de la teoría de la relatividad.
+p:Cuál es la capital de físico de la teoría de la relatividad?r:Físico de la teoría de la relatividad.
+p:A qué país pertenece albert einstein?r:Físico de la teoría de la relatividad.
+p:Dónde se ubica albert einstein?r:Físico de la teoría de la relatividad.
+p:Por qué es importante albert einstein?r:Físico de la teoría de la relatividad.
+p:Cómo se describe albert einstein?r:Físico de la teoría de la relatividad.
+p:Dame una explicación breve de albert einstein?r:Físico de la teoría de la relatividad.
+p:Háblame de albert einstein?r:Físico de la teoría de la relatividad.
+p:Qué información básica tienes sobre albert einstein?r:Físico de la teoría de la relatividad.
+p:Qué sabes de albert einstein?r:Físico de la teoría de la relatividad.
+p:Qué es isaac newton?r:Científico asociado a la ley de la gravedad.
+p:Cuál es la capital de científico asociado a la ley de la gravedad?r:Científico asociado a la ley de la gravedad.
+p:A qué país pertenece isaac newton?r:Científico asociado a la ley de la gravedad.
+p:Dónde se ubica isaac newton?r:Científico asociado a la ley de la gravedad.
+p:Por qué es importante isaac newton?r:Científico asociado a la ley de la gravedad.
+p:Cómo se describe isaac newton?r:Científico asociado a la ley de la gravedad.
+p:Dame una explicación breve de isaac newton?r:Científico asociado a la ley de la gravedad.
+p:Háblame de isaac newton?r:Científico asociado a la ley de la gravedad.
+p:Qué información básica tienes sobre isaac newton?r:Científico asociado a la ley de la gravedad.
+p:Qué sabes de isaac newton?r:Científico asociado a la ley de la gravedad.
+p:Qué es charles darwin?r:Naturalista de la teoría de la evolución.
+p:Cuál es la capital de naturalista de la teoría de la evolución?r:Naturalista de la teoría de la evolución.
+p:A qué país pertenece charles darwin?r:Naturalista de la teoría de la evolución.
+p:Dónde se ubica charles darwin?r:Naturalista de la teoría de la evolución.
+p:Por qué es importante charles darwin?r:Naturalista de la teoría de la evolución.
+p:Cómo se describe charles darwin?r:Naturalista de la teoría de la evolución.
+p:Dame una explicación breve de charles darwin?r:Naturalista de la teoría de la evolución.
+p:Háblame de charles darwin?r:Naturalista de la teoría de la evolución.
+p:Qué información básica tienes sobre charles darwin?r:Naturalista de la teoría de la evolución.
+p:Qué sabes de charles darwin?r:Naturalista de la teoría de la evolución.
+p:Qué es nicolás copérnico?r:Astrónomo del modelo heliocéntrico.
+p:Cuál es la capital de astrónomo del modelo heliocéntrico?r:Astrónomo del modelo heliocéntrico.
+p:A qué país pertenece nicolás copérnico?r:Astrónomo del modelo heliocéntrico.
+p:Dónde se ubica nicolás copérnico?r:Astrónomo del modelo heliocéntrico.
+p:Por qué es importante nicolás copérnico?r:Astrónomo del modelo heliocéntrico.
+p:Cómo se describe nicolás copérnico?r:Astrónomo del modelo heliocéntrico.
+p:Dame una explicación breve de nicolás copérnico?r:Astrónomo del modelo heliocéntrico.
+p:Háblame de nicolás copérnico?r:Astrónomo del modelo heliocéntrico.
+p:Qué información básica tienes sobre nicolás copérnico?r:Astrónomo del modelo heliocéntrico.
+p:Qué sabes de nicolás copérnico?r:Astrónomo del modelo heliocéntrico.
+p:Qué es unesco?r:La organización de la ONU para educación, ciencia y cultura.
+p:Cuál es la capital de organización de la ONU para educación, ciencia y cultura?r:La organización de la ONU para educación, ciencia y cultura.
+p:A qué país pertenece unesco?r:La organización de la ONU para educación, ciencia y cultura.
+p:Dónde se ubica unesco?r:La organización de la ONU para educación, ciencia y cultura.
+p:Por qué es importante unesco?r:La organización de la ONU para educación, ciencia y cultura.
+p:Cómo se describe unesco?r:La organización de la ONU para educación, ciencia y cultura.
+p:Dame una explicación breve de unesco?r:La organización de la ONU para educación, ciencia y cultura.
+p:Háblame de unesco?r:La organización de la ONU para educación, ciencia y cultura.
+p:Qué información básica tienes sobre unesco?r:La organización de la ONU para educación, ciencia y cultura.
+p:Qué sabes de unesco?r:La organización de la ONU para educación, ciencia y cultura.
+p:Qué es onu?r:La Organización de las Naciones Unidas.
+p:Cuál es la capital de Organización de las Naciones Unidas?r:La Organización de las Naciones Unidas.
+p:A qué país pertenece onu?r:La Organización de las Naciones Unidas.
+p:Dónde se ubica onu?r:La Organización de las Naciones Unidas.
+p:Por qué es importante onu?r:La Organización de las Naciones Unidas.
+p:Cómo se describe onu?r:La Organización de las Naciones Unidas.
+p:Dame una explicación breve de onu?r:La Organización de las Naciones Unidas.
+p:Háblame de onu?r:La Organización de las Naciones Unidas.
+p:Qué información básica tienes sobre onu?r:La Organización de las Naciones Unidas.
+p:Qué sabes de onu?r:La Organización de las Naciones Unidas.
+p:Qué es oea?r:La Organización de Estados Americanos.
+p:Cuál es la capital de Organización de Estados Americanos?r:La Organización de Estados Americanos.
+p:A qué país pertenece oea?r:La Organización de Estados Americanos.
+p:Dónde se ubica oea?r:La Organización de Estados Americanos.
+p:Por qué es importante oea?r:La Organización de Estados Americanos.
+p:Cómo se describe oea?r:La Organización de Estados Americanos.
+p:Dame una explicación breve de oea?r:La Organización de Estados Americanos.
+p:Háblame de oea?r:La Organización de Estados Americanos.
+p:Qué información básica tienes sobre oea?r:La Organización de Estados Americanos.
+p:Qué sabes de oea?r:La Organización de Estados Americanos.
+p:Qué es cruz roja?r:La organización humanitaria internacional.
+p:Cuál es la capital de organización humanitaria internacional?r:La organización humanitaria internacional.
+p:A qué país pertenece cruz roja?r:La organización humanitaria internacional.
+p:Dónde se ubica cruz roja?r:La organización humanitaria internacional.
+p:Por qué es importante cruz roja?r:La organización humanitaria internacional.
+p:Cómo se describe cruz roja?r:La organización humanitaria internacional.
+p:Dame una explicación breve de cruz roja?r:La organización humanitaria internacional.
+p:Háblame de cruz roja?r:La organización humanitaria internacional.
+p:Qué información básica tienes sobre cruz roja?r:La organización humanitaria internacional.
+p:Qué sabes de cruz roja?r:La organización humanitaria internacional.
+p:Qué es juegos olímpicos?r:Competencia deportiva internacional.
+p:Cuál es la capital de competencia deportiva internacional?r:Competencia deportiva internacional.
+p:A qué país pertenece juegos olímpicos?r:Competencia deportiva internacional.
+p:Dónde se ubica juegos olímpicos?r:Competencia deportiva internacional.
+p:Por qué es importante juegos olímpicos?r:Competencia deportiva internacional.
+p:Cómo se describe juegos olímpicos?r:Competencia deportiva internacional.
+p:Dame una explicación breve de juegos olímpicos?r:Competencia deportiva internacional.
+p:Háblame de juegos olímpicos?r:Competencia deportiva internacional.
+p:Qué información básica tienes sobre juegos olímpicos?r:Competencia deportiva internacional.
+p:Qué sabes de juegos olímpicos?r:Competencia deportiva internacional.
+p:Qué es copa mundial?r:Torneo mundial de fútbol.
+p:Cuál es la capital de torneo mundial de fútbol?r:Torneo mundial de fútbol.
+p:A qué país pertenece copa mundial?r:Torneo mundial de fútbol.
+p:Dónde se ubica copa mundial?r:Torneo mundial de fútbol.
+p:Por qué es importante copa mundial?r:Torneo mundial de fútbol.
+p:Cómo se describe copa mundial?r:Torneo mundial de fútbol.
+p:Dame una explicación breve de copa mundial?r:Torneo mundial de fútbol.
+p:Háblame de copa mundial?r:Torneo mundial de fútbol.
+p:Qué información básica tienes sobre copa mundial?r:Torneo mundial de fútbol.
+p:Qué sabes de copa mundial?r:Torneo mundial de fútbol.
+p:Qué es torre eiffel?r:Monumento emblemático de París.
+p:Cuál es la capital de monumento emblemático de París?r:Monumento emblemático de París.
+p:A qué país pertenece torre eiffel?r:Monumento emblemático de París.
+p:Dónde se ubica torre eiffel?r:Monumento emblemático de París.
+p:Por qué es importante torre eiffel?r:Monumento emblemático de París.
+p:Cómo se describe torre eiffel?r:Monumento emblemático de París.
+p:Dame una explicación breve de torre eiffel?r:Monumento emblemático de París.
+p:Háblame de torre eiffel?r:Monumento emblemático de París.
+p:Qué información básica tienes sobre torre eiffel?r:Monumento emblemático de París.
+p:Qué sabes de torre eiffel?r:Monumento emblemático de París.
+p:Qué es coliseo?r:Anfiteatro histórico de Roma.
+p:Cuál es la capital de anfiteatro histórico de Roma?r:Anfiteatro histórico de Roma.
+p:A qué país pertenece coliseo?r:Anfiteatro histórico de Roma.
+p:Dónde se ubica coliseo?r:Anfiteatro histórico de Roma.
+p:Por qué es importante coliseo?r:Anfiteatro histórico de Roma.
+p:Cómo se describe coliseo?r:Anfiteatro histórico de Roma.
+p:Dame una explicación breve de coliseo?r:Anfiteatro histórico de Roma.
+p:Háblame de coliseo?r:Anfiteatro histórico de Roma.
+p:Qué información básica tienes sobre coliseo?r:Anfiteatro histórico de Roma.
+p:Qué sabes de coliseo?r:Anfiteatro histórico de Roma.
+p:Qué es machu picchu?r:Ciudadela inca en Perú.
+p:Cuál es la capital de ciudadela inca en Perú?r:Ciudadela inca en Perú.
+p:A qué país pertenece machu picchu?r:Ciudadela inca en Perú.
+p:Dónde se ubica machu picchu?r:Ciudadela inca en Perú.
+p:Por qué es importante machu picchu?r:Ciudadela inca en Perú.
+p:Cómo se describe machu picchu?r:Ciudadela inca en Perú.
+p:Dame una explicación breve de machu picchu?r:Ciudadela inca en Perú.
+p:Háblame de machu picchu?r:Ciudadela inca en Perú.
+p:Qué información básica tienes sobre machu picchu?r:Ciudadela inca en Perú.
+p:Qué sabes de machu picchu?r:Ciudadela inca en Perú.
+p:Qué es taj mahal?r:Mausoleo famoso de la India.
+p:Cuál es la capital de mausoleo famoso de la India?r:Mausoleo famoso de la India.
+p:A qué país pertenece taj mahal?r:Mausoleo famoso de la India.
+p:Dónde se ubica taj mahal?r:Mausoleo famoso de la India.
+p:Por qué es importante taj mahal?r:Mausoleo famoso de la India.
+p:Cómo se describe taj mahal?r:Mausoleo famoso de la India.
+p:Dame una explicación breve de taj mahal?r:Mausoleo famoso de la India.
+p:Háblame de taj mahal?r:Mausoleo famoso de la India.
+p:Qué información básica tienes sobre taj mahal?r:Mausoleo famoso de la India.
+p:Qué sabes de taj mahal?r:Mausoleo famoso de la India.
+p:Qué es estatua de la libertad?r:Monumento ubicado en Nueva York.
+p:Cuál es la capital de monumento ubicado en Nueva York?r:Monumento ubicado en Nueva York.
+p:A qué país pertenece estatua de la libertad?r:Monumento ubicado en Nueva York.
+p:Dónde se ubica estatua de la libertad?r:Monumento ubicado en Nueva York.
+p:Por qué es importante estatua de la libertad?r:Monumento ubicado en Nueva York.
+p:Cómo se describe estatua de la libertad?r:Monumento ubicado en Nueva York.
+p:Dame una explicación breve de estatua de la libertad?r:Monumento ubicado en Nueva York.
+p:Háblame de estatua de la libertad?r:Monumento ubicado en Nueva York.
+p:Qué información básica tienes sobre estatua de la libertad?r:Monumento ubicado en Nueva York.
+p:Qué sabes de estatua de la libertad?r:Monumento ubicado en Nueva York.
+p:Qué es gran muralla china?r:Antigua muralla defensiva de China.
+p:Cuál es la capital de antigua muralla defensiva de China?r:Antigua muralla defensiva de China.
+p:A qué país pertenece gran muralla china?r:Antigua muralla defensiva de China.
+p:Dónde se ubica gran muralla china?r:Antigua muralla defensiva de China.
+p:Por qué es importante gran muralla china?r:Antigua muralla defensiva de China.
+p:Cómo se describe gran muralla china?r:Antigua muralla defensiva de China.
+p:Dame una explicación breve de gran muralla china?r:Antigua muralla defensiva de China.
+p:Háblame de gran muralla china?r:Antigua muralla defensiva de China.
+p:Qué información básica tienes sobre gran muralla china?r:Antigua muralla defensiva de China.
+p:Qué sabes de gran muralla china?r:Antigua muralla defensiva de China.
+p:Qué es cristo redentor?r:Estatua emblemática de Río de Janeiro.
+p:Cuál es la capital de estatua emblemática de Río de Janeiro?r:Estatua emblemática de Río de Janeiro.
+p:A qué país pertenece cristo redentor?r:Estatua emblemática de Río de Janeiro.
+p:Dónde se ubica cristo redentor?r:Estatua emblemática de Río de Janeiro.
+p:Por qué es importante cristo redentor?r:Estatua emblemática de Río de Janeiro.
+p:Cómo se describe cristo redentor?r:Estatua emblemática de Río de Janeiro.
+p:Dame una explicación breve de cristo redentor?r:Estatua emblemática de Río de Janeiro.
+p:Háblame de cristo redentor?r:Estatua emblemática de Río de Janeiro.
+p:Qué información básica tienes sobre cristo redentor?r:Estatua emblemática de Río de Janeiro.
+p:Qué sabes de cristo redentor?r:Estatua emblemática de Río de Janeiro.
+p:Qué es pirámides de giza?r:Monumentos funerarios del antiguo Egipto.
+p:Cuál es la capital de monumentos funerarios del antiguo Egipto?r:Monumentos funerarios del antiguo Egipto.
+p:A qué país pertenece pirámides de giza?r:Monumentos funerarios del antiguo Egipto.
+p:Dónde se ubica pirámides de giza?r:Monumentos funerarios del antiguo Egipto.
+p:Por qué es importante pirámides de giza?r:Monumentos funerarios del antiguo Egipto.
+p:Cómo se describe pirámides de giza?r:Monumentos funerarios del antiguo Egipto.
+p:Dame una explicación breve de pirámides de giza?r:Monumentos funerarios del antiguo Egipto.
+p:Háblame de pirámides de giza?r:Monumentos funerarios del antiguo Egipto.
+p:Qué información básica tienes sobre pirámides de giza?r:Monumentos funerarios del antiguo Egipto.
+p:Qué sabes de pirámides de giza?r:Monumentos funerarios del antiguo Egipto.
+p:Qué es inglés?r:Idioma de uso internacional muy extendido.
+p:Cuál es la capital de idioma de uso internacional muy extendido?r:Idioma de uso internacional muy extendido.
+p:A qué país pertenece inglés?r:Idioma de uso internacional muy extendido.
+p:Dónde se ubica inglés?r:Idioma de uso internacional muy extendido.
+p:Por qué es importante inglés?r:Idioma de uso internacional muy extendido.
+p:Cómo se describe inglés?r:Idioma de uso internacional muy extendido.
+p:Dame una explicación breve de inglés?r:Idioma de uso internacional muy extendido.
+p:Háblame de inglés?r:Idioma de uso internacional muy extendido.
+p:Qué información básica tienes sobre inglés?r:Idioma de uso internacional muy extendido.
+p:Qué sabes de inglés?r:Idioma de uso internacional muy extendido.
+p:Qué es español?r:Lengua oficial en gran parte de América Latina.
+p:Cuál es la capital de lengua oficial en gran parte de América Latina?r:Lengua oficial en gran parte de América Latina.
+p:A qué país pertenece español?r:Lengua oficial en gran parte de América Latina.
+p:Dónde se ubica español?r:Lengua oficial en gran parte de América Latina.
+p:Por qué es importante español?r:Lengua oficial en gran parte de América Latina.
+p:Cómo se describe español?r:Lengua oficial en gran parte de América Latina.
+p:Dame una explicación breve de español?r:Lengua oficial en gran parte de América Latina.
+p:Háblame de español?r:Lengua oficial en gran parte de América Latina.
+p:Qué información básica tienes sobre español?r:Lengua oficial en gran parte de América Latina.
+p:Qué sabes de español?r:Lengua oficial en gran parte de América Latina.
+p:Qué es portugués?r:Idioma oficial de Brasil.
+p:Cuál es la capital de idioma oficial de Brasil?r:Idioma oficial de Brasil.
+p:A qué país pertenece portugués?r:Idioma oficial de Brasil.
+p:Dónde se ubica portugués?r:Idioma oficial de Brasil.
+p:Por qué es importante portugués?r:Idioma oficial de Brasil.
+p:Cómo se describe portugués?r:Idioma oficial de Brasil.
+p:Dame una explicación breve de portugués?r:Idioma oficial de Brasil.
+p:Háblame de portugués?r:Idioma oficial de Brasil.
+p:Qué información básica tienes sobre portugués?r:Idioma oficial de Brasil.
+p:Qué sabes de portugués?r:Idioma oficial de Brasil.
+p:Qué es francés?r:Idioma oficial de Francia y otros países.
+p:Cuál es la capital de idioma oficial de Francia y otros países?r:Idioma oficial de Francia y otros países.
+p:A qué país pertenece francés?r:Idioma oficial de Francia y otros países.
+p:Dónde se ubica francés?r:Idioma oficial de Francia y otros países.
+p:Por qué es importante francés?r:Idioma oficial de Francia y otros países.
+p:Cómo se describe francés?r:Idioma oficial de Francia y otros países.
+p:Dame una explicación breve de francés?r:Idioma oficial de Francia y otros países.
+p:Háblame de francés?r:Idioma oficial de Francia y otros países.
+p:Qué información básica tienes sobre francés?r:Idioma oficial de Francia y otros países.
+p:Qué sabes de francés?r:Idioma oficial de Francia y otros países.
+p:Qué es alemán?r:Idioma oficial de Alemania.
+p:Cuál es la capital de idioma oficial de Alemania?r:Idioma oficial de Alemania.
+p:A qué país pertenece alemán?r:Idioma oficial de Alemania.
+p:Dónde se ubica alemán?r:Idioma oficial de Alemania.
+p:Por qué es importante alemán?r:Idioma oficial de Alemania.
+p:Cómo se describe alemán?r:Idioma oficial de Alemania.
+p:Dame una explicación breve de alemán?r:Idioma oficial de Alemania.
+p:Háblame de alemán?r:Idioma oficial de Alemania.
+p:Qué información básica tienes sobre alemán?r:Idioma oficial de Alemania.
+p:Qué sabes de alemán?r:Idioma oficial de Alemania.
+p:Qué es patrimonio cultural?r:Conjunto de bienes y tradiciones valiosas.
+p:Cuál es la capital de conjunto de bienes y tradiciones valiosas?r:Conjunto de bienes y tradiciones valiosas.
+p:A qué país pertenece patrimonio cultural?r:Conjunto de bienes y tradiciones valiosas.
+p:Dónde se ubica patrimonio cultural?r:Conjunto de bienes y tradiciones valiosas.
+p:Por qué es importante patrimonio cultural?r:Conjunto de bienes y tradiciones valiosas.
+p:Cómo se describe patrimonio cultural?r:Conjunto de bienes y tradiciones valiosas.
+p:Dame una explicación breve de patrimonio cultural?r:Conjunto de bienes y tradiciones valiosas.
+p:Háblame de patrimonio cultural?r:Conjunto de bienes y tradiciones valiosas.
+p:Qué información básica tienes sobre patrimonio cultural?r:Conjunto de bienes y tradiciones valiosas.
+p:Qué sabes de patrimonio cultural?r:Conjunto de bienes y tradiciones valiosas.

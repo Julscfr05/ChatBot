@@ -1,0 +1,500 @@
+p:Qué es computador?r:Una máquina electrónica que procesa datos.
+p:Para qué sirve computador?r:Una máquina electrónica que procesa datos.
+p:Cuál es la función de computador?r:Una máquina electrónica que procesa datos.
+p:Cómo se usa computador?r:Una máquina electrónica que procesa datos.
+p:Por qué es importante computador?r:Una máquina electrónica que procesa datos.
+p:Cómo se describe computador?r:Una máquina electrónica que procesa datos.
+p:Dame una explicación breve de computador?r:Una máquina electrónica que procesa datos.
+p:Háblame de computador?r:Una máquina electrónica que procesa datos.
+p:Qué características tiene computador?r:Una máquina electrónica que procesa datos.
+p:Qué sabes de computador?r:Una máquina electrónica que procesa datos.
+p:Qué es hardware?r:El conjunto de componentes físicos de un sistema.
+p:Para qué sirve hardware?r:El conjunto de componentes físicos de un sistema.
+p:Cuál es la función de hardware?r:El conjunto de componentes físicos de un sistema.
+p:Cómo se usa hardware?r:El conjunto de componentes físicos de un sistema.
+p:Por qué es importante hardware?r:El conjunto de componentes físicos de un sistema.
+p:Cómo se describe hardware?r:El conjunto de componentes físicos de un sistema.
+p:Dame una explicación breve de hardware?r:El conjunto de componentes físicos de un sistema.
+p:Háblame de hardware?r:El conjunto de componentes físicos de un sistema.
+p:Qué características tiene hardware?r:El conjunto de componentes físicos de un sistema.
+p:Qué sabes de hardware?r:El conjunto de componentes físicos de un sistema.
+p:Qué es software?r:El conjunto de programas y aplicaciones.
+p:Para qué sirve software?r:El conjunto de programas y aplicaciones.
+p:Cuál es la función de software?r:El conjunto de programas y aplicaciones.
+p:Cómo se usa software?r:El conjunto de programas y aplicaciones.
+p:Por qué es importante software?r:El conjunto de programas y aplicaciones.
+p:Cómo se describe software?r:El conjunto de programas y aplicaciones.
+p:Dame una explicación breve de software?r:El conjunto de programas y aplicaciones.
+p:Háblame de software?r:El conjunto de programas y aplicaciones.
+p:Qué características tiene software?r:El conjunto de programas y aplicaciones.
+p:Qué sabes de software?r:El conjunto de programas y aplicaciones.
+p:Qué es sistema operativo?r:Software que administra los recursos del equipo.
+p:Para qué sirve sistema operativo?r:Software que administra los recursos del equipo.
+p:Cuál es la función de sistema operativo?r:Software que administra los recursos del equipo.
+p:Cómo se usa sistema operativo?r:Software que administra los recursos del equipo.
+p:Por qué es importante sistema operativo?r:Software que administra los recursos del equipo.
+p:Cómo se describe sistema operativo?r:Software que administra los recursos del equipo.
+p:Dame una explicación breve de sistema operativo?r:Software que administra los recursos del equipo.
+p:Háblame de sistema operativo?r:Software que administra los recursos del equipo.
+p:Qué características tiene sistema operativo?r:Software que administra los recursos del equipo.
+p:Qué sabes de sistema operativo?r:Software que administra los recursos del equipo.
+p:Qué es memoria ram?r:Memoria temporal de acceso rápido.
+p:Para qué sirve memoria ram?r:Memoria temporal de acceso rápido.
+p:Cuál es la función de memoria ram?r:Memoria temporal de acceso rápido.
+p:Cómo se usa memoria ram?r:Memoria temporal de acceso rápido.
+p:Por qué es importante memoria ram?r:Memoria temporal de acceso rápido.
+p:Cómo se describe memoria ram?r:Memoria temporal de acceso rápido.
+p:Dame una explicación breve de memoria ram?r:Memoria temporal de acceso rápido.
+p:Háblame de memoria ram?r:Memoria temporal de acceso rápido.
+p:Qué características tiene memoria ram?r:Memoria temporal de acceso rápido.
+p:Qué sabes de memoria ram?r:Memoria temporal de acceso rápido.
+p:Qué es memoria rom?r:Memoria de solo lectura con datos permanentes.
+p:Para qué sirve memoria rom?r:Memoria de solo lectura con datos permanentes.
+p:Cuál es la función de memoria rom?r:Memoria de solo lectura con datos permanentes.
+p:Cómo se usa memoria rom?r:Memoria de solo lectura con datos permanentes.
+p:Por qué es importante memoria rom?r:Memoria de solo lectura con datos permanentes.
+p:Cómo se describe memoria rom?r:Memoria de solo lectura con datos permanentes.
+p:Dame una explicación breve de memoria rom?r:Memoria de solo lectura con datos permanentes.
+p:Háblame de memoria rom?r:Memoria de solo lectura con datos permanentes.
+p:Qué características tiene memoria rom?r:Memoria de solo lectura con datos permanentes.
+p:Qué sabes de memoria rom?r:Memoria de solo lectura con datos permanentes.
+p:Qué es cpu?r:El procesador que ejecuta instrucciones.
+p:Para qué sirve cpu?r:El procesador que ejecuta instrucciones.
+p:Cuál es la función de cpu?r:El procesador que ejecuta instrucciones.
+p:Cómo se usa cpu?r:El procesador que ejecuta instrucciones.
+p:Por qué es importante cpu?r:El procesador que ejecuta instrucciones.
+p:Cómo se describe cpu?r:El procesador que ejecuta instrucciones.
+p:Dame una explicación breve de cpu?r:El procesador que ejecuta instrucciones.
+p:Háblame de cpu?r:El procesador que ejecuta instrucciones.
+p:Qué características tiene cpu?r:El procesador que ejecuta instrucciones.
+p:Qué sabes de cpu?r:El procesador que ejecuta instrucciones.
+p:Qué es gpu?r:El procesador especializado en gráficos.
+p:Para qué sirve gpu?r:El procesador especializado en gráficos.
+p:Cuál es la función de gpu?r:El procesador especializado en gráficos.
+p:Cómo se usa gpu?r:El procesador especializado en gráficos.
+p:Por qué es importante gpu?r:El procesador especializado en gráficos.
+p:Cómo se describe gpu?r:El procesador especializado en gráficos.
+p:Dame una explicación breve de gpu?r:El procesador especializado en gráficos.
+p:Háblame de gpu?r:El procesador especializado en gráficos.
+p:Qué características tiene gpu?r:El procesador especializado en gráficos.
+p:Qué sabes de gpu?r:El procesador especializado en gráficos.
+p:Qué es ssd?r:Almacenamiento sólido de alta velocidad.
+p:Para qué sirve ssd?r:Almacenamiento sólido de alta velocidad.
+p:Cuál es la función de ssd?r:Almacenamiento sólido de alta velocidad.
+p:Cómo se usa ssd?r:Almacenamiento sólido de alta velocidad.
+p:Por qué es importante ssd?r:Almacenamiento sólido de alta velocidad.
+p:Cómo se describe ssd?r:Almacenamiento sólido de alta velocidad.
+p:Dame una explicación breve de ssd?r:Almacenamiento sólido de alta velocidad.
+p:Háblame de ssd?r:Almacenamiento sólido de alta velocidad.
+p:Qué características tiene ssd?r:Almacenamiento sólido de alta velocidad.
+p:Qué sabes de ssd?r:Almacenamiento sólido de alta velocidad.
+p:Qué es hdd?r:Disco duro magnético de gran capacidad.
+p:Para qué sirve hdd?r:Disco duro magnético de gran capacidad.
+p:Cuál es la función de hdd?r:Disco duro magnético de gran capacidad.
+p:Cómo se usa hdd?r:Disco duro magnético de gran capacidad.
+p:Por qué es importante hdd?r:Disco duro magnético de gran capacidad.
+p:Cómo se describe hdd?r:Disco duro magnético de gran capacidad.
+p:Dame una explicación breve de hdd?r:Disco duro magnético de gran capacidad.
+p:Háblame de hdd?r:Disco duro magnético de gran capacidad.
+p:Qué características tiene hdd?r:Disco duro magnético de gran capacidad.
+p:Qué sabes de hdd?r:Disco duro magnético de gran capacidad.
+p:Qué es placa madre?r:La tarjeta principal donde se conectan componentes.
+p:Para qué sirve placa madre?r:La tarjeta principal donde se conectan componentes.
+p:Cuál es la función de placa madre?r:La tarjeta principal donde se conectan componentes.
+p:Cómo se usa placa madre?r:La tarjeta principal donde se conectan componentes.
+p:Por qué es importante placa madre?r:La tarjeta principal donde se conectan componentes.
+p:Cómo se describe placa madre?r:La tarjeta principal donde se conectan componentes.
+p:Dame una explicación breve de placa madre?r:La tarjeta principal donde se conectan componentes.
+p:Háblame de placa madre?r:La tarjeta principal donde se conectan componentes.
+p:Qué características tiene placa madre?r:La tarjeta principal donde se conectan componentes.
+p:Qué sabes de placa madre?r:La tarjeta principal donde se conectan componentes.
+p:Qué es fuente de poder?r:El componente que suministra energía.
+p:Para qué sirve fuente de poder?r:El componente que suministra energía.
+p:Cuál es la función de fuente de poder?r:El componente que suministra energía.
+p:Cómo se usa fuente de poder?r:El componente que suministra energía.
+p:Por qué es importante fuente de poder?r:El componente que suministra energía.
+p:Cómo se describe fuente de poder?r:El componente que suministra energía.
+p:Dame una explicación breve de fuente de poder?r:El componente que suministra energía.
+p:Háblame de fuente de poder?r:El componente que suministra energía.
+p:Qué características tiene fuente de poder?r:El componente que suministra energía.
+p:Qué sabes de fuente de poder?r:El componente que suministra energía.
+p:Qué es teclado?r:Dispositivo de entrada para escribir.
+p:Para qué sirve teclado?r:Dispositivo de entrada para escribir.
+p:Cuál es la función de teclado?r:Dispositivo de entrada para escribir.
+p:Cómo se usa teclado?r:Dispositivo de entrada para escribir.
+p:Por qué es importante teclado?r:Dispositivo de entrada para escribir.
+p:Cómo se describe teclado?r:Dispositivo de entrada para escribir.
+p:Dame una explicación breve de teclado?r:Dispositivo de entrada para escribir.
+p:Háblame de teclado?r:Dispositivo de entrada para escribir.
+p:Qué características tiene teclado?r:Dispositivo de entrada para escribir.
+p:Qué sabes de teclado?r:Dispositivo de entrada para escribir.
+p:Qué es mouse?r:Dispositivo apuntador para interactuar.
+p:Para qué sirve mouse?r:Dispositivo apuntador para interactuar.
+p:Cuál es la función de mouse?r:Dispositivo apuntador para interactuar.
+p:Cómo se usa mouse?r:Dispositivo apuntador para interactuar.
+p:Por qué es importante mouse?r:Dispositivo apuntador para interactuar.
+p:Cómo se describe mouse?r:Dispositivo apuntador para interactuar.
+p:Dame una explicación breve de mouse?r:Dispositivo apuntador para interactuar.
+p:Háblame de mouse?r:Dispositivo apuntador para interactuar.
+p:Qué características tiene mouse?r:Dispositivo apuntador para interactuar.
+p:Qué sabes de mouse?r:Dispositivo apuntador para interactuar.
+p:Qué es monitor?r:Pantalla que muestra información visual.
+p:Para qué sirve monitor?r:Pantalla que muestra información visual.
+p:Cuál es la función de monitor?r:Pantalla que muestra información visual.
+p:Cómo se usa monitor?r:Pantalla que muestra información visual.
+p:Por qué es importante monitor?r:Pantalla que muestra información visual.
+p:Cómo se describe monitor?r:Pantalla que muestra información visual.
+p:Dame una explicación breve de monitor?r:Pantalla que muestra información visual.
+p:Háblame de monitor?r:Pantalla que muestra información visual.
+p:Qué características tiene monitor?r:Pantalla que muestra información visual.
+p:Qué sabes de monitor?r:Pantalla que muestra información visual.
+p:Qué es impresora?r:Dispositivo que imprime documentos.
+p:Para qué sirve impresora?r:Dispositivo que imprime documentos.
+p:Cuál es la función de impresora?r:Dispositivo que imprime documentos.
+p:Cómo se usa impresora?r:Dispositivo que imprime documentos.
+p:Por qué es importante impresora?r:Dispositivo que imprime documentos.
+p:Cómo se describe impresora?r:Dispositivo que imprime documentos.
+p:Dame una explicación breve de impresora?r:Dispositivo que imprime documentos.
+p:Háblame de impresora?r:Dispositivo que imprime documentos.
+p:Qué características tiene impresora?r:Dispositivo que imprime documentos.
+p:Qué sabes de impresora?r:Dispositivo que imprime documentos.
+p:Qué es escáner?r:Dispositivo que digitaliza documentos.
+p:Para qué sirve escáner?r:Dispositivo que digitaliza documentos.
+p:Cuál es la función de escáner?r:Dispositivo que digitaliza documentos.
+p:Cómo se usa escáner?r:Dispositivo que digitaliza documentos.
+p:Por qué es importante escáner?r:Dispositivo que digitaliza documentos.
+p:Cómo se describe escáner?r:Dispositivo que digitaliza documentos.
+p:Dame una explicación breve de escáner?r:Dispositivo que digitaliza documentos.
+p:Háblame de escáner?r:Dispositivo que digitaliza documentos.
+p:Qué características tiene escáner?r:Dispositivo que digitaliza documentos.
+p:Qué sabes de escáner?r:Dispositivo que digitaliza documentos.
+p:Qué es router?r:Equipo que conecta redes y reparte internet.
+p:Para qué sirve router?r:Equipo que conecta redes y reparte internet.
+p:Cuál es la función de router?r:Equipo que conecta redes y reparte internet.
+p:Cómo se usa router?r:Equipo que conecta redes y reparte internet.
+p:Por qué es importante router?r:Equipo que conecta redes y reparte internet.
+p:Cómo se describe router?r:Equipo que conecta redes y reparte internet.
+p:Dame una explicación breve de router?r:Equipo que conecta redes y reparte internet.
+p:Háblame de router?r:Equipo que conecta redes y reparte internet.
+p:Qué características tiene router?r:Equipo que conecta redes y reparte internet.
+p:Qué sabes de router?r:Equipo que conecta redes y reparte internet.
+p:Qué es switch?r:Dispositivo que conecta equipos en una red local.
+p:Para qué sirve switch?r:Dispositivo que conecta equipos en una red local.
+p:Cuál es la función de switch?r:Dispositivo que conecta equipos en una red local.
+p:Cómo se usa switch?r:Dispositivo que conecta equipos en una red local.
+p:Por qué es importante switch?r:Dispositivo que conecta equipos en una red local.
+p:Cómo se describe switch?r:Dispositivo que conecta equipos en una red local.
+p:Dame una explicación breve de switch?r:Dispositivo que conecta equipos en una red local.
+p:Háblame de switch?r:Dispositivo que conecta equipos en una red local.
+p:Qué características tiene switch?r:Dispositivo que conecta equipos en una red local.
+p:Qué sabes de switch?r:Dispositivo que conecta equipos en una red local.
+p:Qué es firewall?r:Sistema que filtra y protege el tráfico.
+p:Para qué sirve firewall?r:Sistema que filtra y protege el tráfico.
+p:Cuál es la función de firewall?r:Sistema que filtra y protege el tráfico.
+p:Cómo se usa firewall?r:Sistema que filtra y protege el tráfico.
+p:Por qué es importante firewall?r:Sistema que filtra y protege el tráfico.
+p:Cómo se describe firewall?r:Sistema que filtra y protege el tráfico.
+p:Dame una explicación breve de firewall?r:Sistema que filtra y protege el tráfico.
+p:Háblame de firewall?r:Sistema que filtra y protege el tráfico.
+p:Qué características tiene firewall?r:Sistema que filtra y protege el tráfico.
+p:Qué sabes de firewall?r:Sistema que filtra y protege el tráfico.
+p:Qué es internet?r:Red mundial de redes interconectadas.
+p:Para qué sirve internet?r:Red mundial de redes interconectadas.
+p:Cuál es la función de internet?r:Red mundial de redes interconectadas.
+p:Cómo se usa internet?r:Red mundial de redes interconectadas.
+p:Por qué es importante internet?r:Red mundial de redes interconectadas.
+p:Cómo se describe internet?r:Red mundial de redes interconectadas.
+p:Dame una explicación breve de internet?r:Red mundial de redes interconectadas.
+p:Háblame de internet?r:Red mundial de redes interconectadas.
+p:Qué características tiene internet?r:Red mundial de redes interconectadas.
+p:Qué sabes de internet?r:Red mundial de redes interconectadas.
+p:Qué es navegador web?r:Programa para acceder a sitios web.
+p:Para qué sirve navegador web?r:Programa para acceder a sitios web.
+p:Cuál es la función de navegador web?r:Programa para acceder a sitios web.
+p:Cómo se usa navegador web?r:Programa para acceder a sitios web.
+p:Por qué es importante navegador web?r:Programa para acceder a sitios web.
+p:Cómo se describe navegador web?r:Programa para acceder a sitios web.
+p:Dame una explicación breve de navegador web?r:Programa para acceder a sitios web.
+p:Háblame de navegador web?r:Programa para acceder a sitios web.
+p:Qué características tiene navegador web?r:Programa para acceder a sitios web.
+p:Qué sabes de navegador web?r:Programa para acceder a sitios web.
+p:Qué es buscador web?r:Herramienta para encontrar información en internet.
+p:Para qué sirve buscador web?r:Herramienta para encontrar información en internet.
+p:Cuál es la función de buscador web?r:Herramienta para encontrar información en internet.
+p:Cómo se usa buscador web?r:Herramienta para encontrar información en internet.
+p:Por qué es importante buscador web?r:Herramienta para encontrar información en internet.
+p:Cómo se describe buscador web?r:Herramienta para encontrar información en internet.
+p:Dame una explicación breve de buscador web?r:Herramienta para encontrar información en internet.
+p:Háblame de buscador web?r:Herramienta para encontrar información en internet.
+p:Qué características tiene buscador web?r:Herramienta para encontrar información en internet.
+p:Qué sabes de buscador web?r:Herramienta para encontrar información en internet.
+p:Qué es wi-fi?r:Tecnología de conexión inalámbrica.
+p:Para qué sirve wi-fi?r:Tecnología de conexión inalámbrica.
+p:Cuál es la función de wi-fi?r:Tecnología de conexión inalámbrica.
+p:Cómo se usa wi-fi?r:Tecnología de conexión inalámbrica.
+p:Por qué es importante wi-fi?r:Tecnología de conexión inalámbrica.
+p:Cómo se describe wi-fi?r:Tecnología de conexión inalámbrica.
+p:Dame una explicación breve de wi-fi?r:Tecnología de conexión inalámbrica.
+p:Háblame de wi-fi?r:Tecnología de conexión inalámbrica.
+p:Qué características tiene wi-fi?r:Tecnología de conexión inalámbrica.
+p:Qué sabes de wi-fi?r:Tecnología de conexión inalámbrica.
+p:Qué es bluetooth?r:Tecnología inalámbrica de corto alcance.
+p:Para qué sirve bluetooth?r:Tecnología inalámbrica de corto alcance.
+p:Cuál es la función de bluetooth?r:Tecnología inalámbrica de corto alcance.
+p:Cómo se usa bluetooth?r:Tecnología inalámbrica de corto alcance.
+p:Por qué es importante bluetooth?r:Tecnología inalámbrica de corto alcance.
+p:Cómo se describe bluetooth?r:Tecnología inalámbrica de corto alcance.
+p:Dame una explicación breve de bluetooth?r:Tecnología inalámbrica de corto alcance.
+p:Háblame de bluetooth?r:Tecnología inalámbrica de corto alcance.
+p:Qué características tiene bluetooth?r:Tecnología inalámbrica de corto alcance.
+p:Qué sabes de bluetooth?r:Tecnología inalámbrica de corto alcance.
+p:Qué es nube?r:Servicios y recursos informáticos por internet.
+p:Para qué sirve nube?r:Servicios y recursos informáticos por internet.
+p:Cuál es la función de nube?r:Servicios y recursos informáticos por internet.
+p:Cómo se usa nube?r:Servicios y recursos informáticos por internet.
+p:Por qué es importante nube?r:Servicios y recursos informáticos por internet.
+p:Cómo se describe nube?r:Servicios y recursos informáticos por internet.
+p:Dame una explicación breve de nube?r:Servicios y recursos informáticos por internet.
+p:Háblame de nube?r:Servicios y recursos informáticos por internet.
+p:Qué características tiene nube?r:Servicios y recursos informáticos por internet.
+p:Qué sabes de nube?r:Servicios y recursos informáticos por internet.
+p:Qué es servidor?r:Equipo o sistema que ofrece servicios.
+p:Para qué sirve servidor?r:Equipo o sistema que ofrece servicios.
+p:Cuál es la función de servidor?r:Equipo o sistema que ofrece servicios.
+p:Cómo se usa servidor?r:Equipo o sistema que ofrece servicios.
+p:Por qué es importante servidor?r:Equipo o sistema que ofrece servicios.
+p:Cómo se describe servidor?r:Equipo o sistema que ofrece servicios.
+p:Dame una explicación breve de servidor?r:Equipo o sistema que ofrece servicios.
+p:Háblame de servidor?r:Equipo o sistema que ofrece servicios.
+p:Qué características tiene servidor?r:Equipo o sistema que ofrece servicios.
+p:Qué sabes de servidor?r:Equipo o sistema que ofrece servicios.
+p:Qué es cliente?r:Equipo o aplicación que solicita servicios.
+p:Para qué sirve cliente?r:Equipo o aplicación que solicita servicios.
+p:Cuál es la función de cliente?r:Equipo o aplicación que solicita servicios.
+p:Cómo se usa cliente?r:Equipo o aplicación que solicita servicios.
+p:Por qué es importante cliente?r:Equipo o aplicación que solicita servicios.
+p:Cómo se describe cliente?r:Equipo o aplicación que solicita servicios.
+p:Dame una explicación breve de cliente?r:Equipo o aplicación que solicita servicios.
+p:Háblame de cliente?r:Equipo o aplicación que solicita servicios.
+p:Qué características tiene cliente?r:Equipo o aplicación que solicita servicios.
+p:Qué sabes de cliente?r:Equipo o aplicación que solicita servicios.
+p:Qué es base de datos?r:Sistema organizado para almacenar información.
+p:Para qué sirve base de datos?r:Sistema organizado para almacenar información.
+p:Cuál es la función de base de datos?r:Sistema organizado para almacenar información.
+p:Cómo se usa base de datos?r:Sistema organizado para almacenar información.
+p:Por qué es importante base de datos?r:Sistema organizado para almacenar información.
+p:Cómo se describe base de datos?r:Sistema organizado para almacenar información.
+p:Dame una explicación breve de base de datos?r:Sistema organizado para almacenar información.
+p:Háblame de base de datos?r:Sistema organizado para almacenar información.
+p:Qué características tiene base de datos?r:Sistema organizado para almacenar información.
+p:Qué sabes de base de datos?r:Sistema organizado para almacenar información.
+p:Qué es sql?r:Lenguaje para consultar y gestionar datos.
+p:Para qué sirve sql?r:Lenguaje para consultar y gestionar datos.
+p:Cuál es la función de sql?r:Lenguaje para consultar y gestionar datos.
+p:Cómo se usa sql?r:Lenguaje para consultar y gestionar datos.
+p:Por qué es importante sql?r:Lenguaje para consultar y gestionar datos.
+p:Cómo se describe sql?r:Lenguaje para consultar y gestionar datos.
+p:Dame una explicación breve de sql?r:Lenguaje para consultar y gestionar datos.
+p:Háblame de sql?r:Lenguaje para consultar y gestionar datos.
+p:Qué características tiene sql?r:Lenguaje para consultar y gestionar datos.
+p:Qué sabes de sql?r:Lenguaje para consultar y gestionar datos.
+p:Qué es python?r:Lenguaje de programación versátil y legible.
+p:Para qué sirve python?r:Lenguaje de programación versátil y legible.
+p:Cuál es la función de python?r:Lenguaje de programación versátil y legible.
+p:Cómo se usa python?r:Lenguaje de programación versátil y legible.
+p:Por qué es importante python?r:Lenguaje de programación versátil y legible.
+p:Cómo se describe python?r:Lenguaje de programación versátil y legible.
+p:Dame una explicación breve de python?r:Lenguaje de programación versátil y legible.
+p:Háblame de python?r:Lenguaje de programación versátil y legible.
+p:Qué características tiene python?r:Lenguaje de programación versátil y legible.
+p:Qué sabes de python?r:Lenguaje de programación versátil y legible.
+p:Qué es java?r:Lenguaje orientado a objetos de uso amplio.
+p:Para qué sirve java?r:Lenguaje orientado a objetos de uso amplio.
+p:Cuál es la función de java?r:Lenguaje orientado a objetos de uso amplio.
+p:Cómo se usa java?r:Lenguaje orientado a objetos de uso amplio.
+p:Por qué es importante java?r:Lenguaje orientado a objetos de uso amplio.
+p:Cómo se describe java?r:Lenguaje orientado a objetos de uso amplio.
+p:Dame una explicación breve de java?r:Lenguaje orientado a objetos de uso amplio.
+p:Háblame de java?r:Lenguaje orientado a objetos de uso amplio.
+p:Qué características tiene java?r:Lenguaje orientado a objetos de uso amplio.
+p:Qué sabes de java?r:Lenguaje orientado a objetos de uso amplio.
+p:Qué es javascript?r:Lenguaje esencial para la web interactiva.
+p:Para qué sirve javascript?r:Lenguaje esencial para la web interactiva.
+p:Cuál es la función de javascript?r:Lenguaje esencial para la web interactiva.
+p:Cómo se usa javascript?r:Lenguaje esencial para la web interactiva.
+p:Por qué es importante javascript?r:Lenguaje esencial para la web interactiva.
+p:Cómo se describe javascript?r:Lenguaje esencial para la web interactiva.
+p:Dame una explicación breve de javascript?r:Lenguaje esencial para la web interactiva.
+p:Háblame de javascript?r:Lenguaje esencial para la web interactiva.
+p:Qué características tiene javascript?r:Lenguaje esencial para la web interactiva.
+p:Qué sabes de javascript?r:Lenguaje esencial para la web interactiva.
+p:Qué es html?r:Lenguaje que estructura páginas web.
+p:Para qué sirve html?r:Lenguaje que estructura páginas web.
+p:Cuál es la función de html?r:Lenguaje que estructura páginas web.
+p:Cómo se usa html?r:Lenguaje que estructura páginas web.
+p:Por qué es importante html?r:Lenguaje que estructura páginas web.
+p:Cómo se describe html?r:Lenguaje que estructura páginas web.
+p:Dame una explicación breve de html?r:Lenguaje que estructura páginas web.
+p:Háblame de html?r:Lenguaje que estructura páginas web.
+p:Qué características tiene html?r:Lenguaje que estructura páginas web.
+p:Qué sabes de html?r:Lenguaje que estructura páginas web.
+p:Qué es css?r:Lenguaje que da estilo a páginas web.
+p:Para qué sirve css?r:Lenguaje que da estilo a páginas web.
+p:Cuál es la función de css?r:Lenguaje que da estilo a páginas web.
+p:Cómo se usa css?r:Lenguaje que da estilo a páginas web.
+p:Por qué es importante css?r:Lenguaje que da estilo a páginas web.
+p:Cómo se describe css?r:Lenguaje que da estilo a páginas web.
+p:Dame una explicación breve de css?r:Lenguaje que da estilo a páginas web.
+p:Háblame de css?r:Lenguaje que da estilo a páginas web.
+p:Qué características tiene css?r:Lenguaje que da estilo a páginas web.
+p:Qué sabes de css?r:Lenguaje que da estilo a páginas web.
+p:Qué es api?r:Interfaz para que dos sistemas se comuniquen.
+p:Para qué sirve api?r:Interfaz para que dos sistemas se comuniquen.
+p:Cuál es la función de api?r:Interfaz para que dos sistemas se comuniquen.
+p:Cómo se usa api?r:Interfaz para que dos sistemas se comuniquen.
+p:Por qué es importante api?r:Interfaz para que dos sistemas se comuniquen.
+p:Cómo se describe api?r:Interfaz para que dos sistemas se comuniquen.
+p:Dame una explicación breve de api?r:Interfaz para que dos sistemas se comuniquen.
+p:Háblame de api?r:Interfaz para que dos sistemas se comuniquen.
+p:Qué características tiene api?r:Interfaz para que dos sistemas se comuniquen.
+p:Qué sabes de api?r:Interfaz para que dos sistemas se comuniquen.
+p:Qué es algoritmo?r:Secuencia ordenada de pasos para resolver problemas.
+p:Para qué sirve algoritmo?r:Secuencia ordenada de pasos para resolver problemas.
+p:Cuál es la función de algoritmo?r:Secuencia ordenada de pasos para resolver problemas.
+p:Cómo se usa algoritmo?r:Secuencia ordenada de pasos para resolver problemas.
+p:Por qué es importante algoritmo?r:Secuencia ordenada de pasos para resolver problemas.
+p:Cómo se describe algoritmo?r:Secuencia ordenada de pasos para resolver problemas.
+p:Dame una explicación breve de algoritmo?r:Secuencia ordenada de pasos para resolver problemas.
+p:Háblame de algoritmo?r:Secuencia ordenada de pasos para resolver problemas.
+p:Qué características tiene algoritmo?r:Secuencia ordenada de pasos para resolver problemas.
+p:Qué sabes de algoritmo?r:Secuencia ordenada de pasos para resolver problemas.
+p:Qué es programación?r:El proceso de crear instrucciones para una computadora.
+p:Para qué sirve programación?r:El proceso de crear instrucciones para una computadora.
+p:Cuál es la función de programación?r:El proceso de crear instrucciones para una computadora.
+p:Cómo se usa programación?r:El proceso de crear instrucciones para una computadora.
+p:Por qué es importante programación?r:El proceso de crear instrucciones para una computadora.
+p:Cómo se describe programación?r:El proceso de crear instrucciones para una computadora.
+p:Dame una explicación breve de programación?r:El proceso de crear instrucciones para una computadora.
+p:Háblame de programación?r:El proceso de crear instrucciones para una computadora.
+p:Qué características tiene programación?r:El proceso de crear instrucciones para una computadora.
+p:Qué sabes de programación?r:El proceso de crear instrucciones para una computadora.
+p:Qué es sistema binario?r:Sistema numérico de base dos.
+p:Para qué sirve sistema binario?r:Sistema numérico de base dos.
+p:Cuál es la función de sistema binario?r:Sistema numérico de base dos.
+p:Cómo se usa sistema binario?r:Sistema numérico de base dos.
+p:Por qué es importante sistema binario?r:Sistema numérico de base dos.
+p:Cómo se describe sistema binario?r:Sistema numérico de base dos.
+p:Dame una explicación breve de sistema binario?r:Sistema numérico de base dos.
+p:Háblame de sistema binario?r:Sistema numérico de base dos.
+p:Qué características tiene sistema binario?r:Sistema numérico de base dos.
+p:Qué sabes de sistema binario?r:Sistema numérico de base dos.
+p:Qué es código abierto?r:Modelo donde el código fuente es accesible.
+p:Para qué sirve código abierto?r:Modelo donde el código fuente es accesible.
+p:Cuál es la función de código abierto?r:Modelo donde el código fuente es accesible.
+p:Cómo se usa código abierto?r:Modelo donde el código fuente es accesible.
+p:Por qué es importante código abierto?r:Modelo donde el código fuente es accesible.
+p:Cómo se describe código abierto?r:Modelo donde el código fuente es accesible.
+p:Dame una explicación breve de código abierto?r:Modelo donde el código fuente es accesible.
+p:Háblame de código abierto?r:Modelo donde el código fuente es accesible.
+p:Qué características tiene código abierto?r:Modelo donde el código fuente es accesible.
+p:Qué sabes de código abierto?r:Modelo donde el código fuente es accesible.
+p:Qué es compilador?r:Programa que traduce código a lenguaje máquina.
+p:Para qué sirve compilador?r:Programa que traduce código a lenguaje máquina.
+p:Cuál es la función de compilador?r:Programa que traduce código a lenguaje máquina.
+p:Cómo se usa compilador?r:Programa que traduce código a lenguaje máquina.
+p:Por qué es importante compilador?r:Programa que traduce código a lenguaje máquina.
+p:Cómo se describe compilador?r:Programa que traduce código a lenguaje máquina.
+p:Dame una explicación breve de compilador?r:Programa que traduce código a lenguaje máquina.
+p:Háblame de compilador?r:Programa que traduce código a lenguaje máquina.
+p:Qué características tiene compilador?r:Programa que traduce código a lenguaje máquina.
+p:Qué sabes de compilador?r:Programa que traduce código a lenguaje máquina.
+p:Qué es intérprete?r:Programa que ejecuta código paso a paso.
+p:Para qué sirve intérprete?r:Programa que ejecuta código paso a paso.
+p:Cuál es la función de intérprete?r:Programa que ejecuta código paso a paso.
+p:Cómo se usa intérprete?r:Programa que ejecuta código paso a paso.
+p:Por qué es importante intérprete?r:Programa que ejecuta código paso a paso.
+p:Cómo se describe intérprete?r:Programa que ejecuta código paso a paso.
+p:Dame una explicación breve de intérprete?r:Programa que ejecuta código paso a paso.
+p:Háblame de intérprete?r:Programa que ejecuta código paso a paso.
+p:Qué características tiene intérprete?r:Programa que ejecuta código paso a paso.
+p:Qué sabes de intérprete?r:Programa que ejecuta código paso a paso.
+p:Qué es ide?r:Entorno integrado para desarrollar software.
+p:Para qué sirve ide?r:Entorno integrado para desarrollar software.
+p:Cuál es la función de ide?r:Entorno integrado para desarrollar software.
+p:Cómo se usa ide?r:Entorno integrado para desarrollar software.
+p:Por qué es importante ide?r:Entorno integrado para desarrollar software.
+p:Cómo se describe ide?r:Entorno integrado para desarrollar software.
+p:Dame una explicación breve de ide?r:Entorno integrado para desarrollar software.
+p:Háblame de ide?r:Entorno integrado para desarrollar software.
+p:Qué características tiene ide?r:Entorno integrado para desarrollar software.
+p:Qué sabes de ide?r:Entorno integrado para desarrollar software.
+p:Qué es framework?r:Estructura que facilita desarrollar aplicaciones.
+p:Para qué sirve framework?r:Estructura que facilita desarrollar aplicaciones.
+p:Cuál es la función de framework?r:Estructura que facilita desarrollar aplicaciones.
+p:Cómo se usa framework?r:Estructura que facilita desarrollar aplicaciones.
+p:Por qué es importante framework?r:Estructura que facilita desarrollar aplicaciones.
+p:Cómo se describe framework?r:Estructura que facilita desarrollar aplicaciones.
+p:Dame una explicación breve de framework?r:Estructura que facilita desarrollar aplicaciones.
+p:Háblame de framework?r:Estructura que facilita desarrollar aplicaciones.
+p:Qué características tiene framework?r:Estructura que facilita desarrollar aplicaciones.
+p:Qué sabes de framework?r:Estructura que facilita desarrollar aplicaciones.
+p:Qué es biblioteca?r:Conjunto reutilizable de funciones y código.
+p:Para qué sirve biblioteca?r:Conjunto reutilizable de funciones y código.
+p:Cuál es la función de biblioteca?r:Conjunto reutilizable de funciones y código.
+p:Cómo se usa biblioteca?r:Conjunto reutilizable de funciones y código.
+p:Por qué es importante biblioteca?r:Conjunto reutilizable de funciones y código.
+p:Cómo se describe biblioteca?r:Conjunto reutilizable de funciones y código.
+p:Dame una explicación breve de biblioteca?r:Conjunto reutilizable de funciones y código.
+p:Háblame de biblioteca?r:Conjunto reutilizable de funciones y código.
+p:Qué características tiene biblioteca?r:Conjunto reutilizable de funciones y código.
+p:Qué sabes de biblioteca?r:Conjunto reutilizable de funciones y código.
+p:Qué es virtualización?r:Creación de máquinas virtuales sobre un mismo hardware.
+p:Para qué sirve virtualización?r:Creación de máquinas virtuales sobre un mismo hardware.
+p:Cuál es la función de virtualización?r:Creación de máquinas virtuales sobre un mismo hardware.
+p:Cómo se usa virtualización?r:Creación de máquinas virtuales sobre un mismo hardware.
+p:Por qué es importante virtualización?r:Creación de máquinas virtuales sobre un mismo hardware.
+p:Cómo se describe virtualización?r:Creación de máquinas virtuales sobre un mismo hardware.
+p:Dame una explicación breve de virtualización?r:Creación de máquinas virtuales sobre un mismo hardware.
+p:Háblame de virtualización?r:Creación de máquinas virtuales sobre un mismo hardware.
+p:Qué características tiene virtualización?r:Creación de máquinas virtuales sobre un mismo hardware.
+p:Qué sabes de virtualización?r:Creación de máquinas virtuales sobre un mismo hardware.
+p:Qué es docker?r:Plataforma para crear y ejecutar contenedores.
+p:Para qué sirve docker?r:Plataforma para crear y ejecutar contenedores.
+p:Cuál es la función de docker?r:Plataforma para crear y ejecutar contenedores.
+p:Cómo se usa docker?r:Plataforma para crear y ejecutar contenedores.
+p:Por qué es importante docker?r:Plataforma para crear y ejecutar contenedores.
+p:Cómo se describe docker?r:Plataforma para crear y ejecutar contenedores.
+p:Dame una explicación breve de docker?r:Plataforma para crear y ejecutar contenedores.
+p:Háblame de docker?r:Plataforma para crear y ejecutar contenedores.
+p:Qué características tiene docker?r:Plataforma para crear y ejecutar contenedores.
+p:Qué sabes de docker?r:Plataforma para crear y ejecutar contenedores.
+p:Qué es kubernetes?r:Sistema para orquestar contenedores.
+p:Para qué sirve kubernetes?r:Sistema para orquestar contenedores.
+p:Cuál es la función de kubernetes?r:Sistema para orquestar contenedores.
+p:Cómo se usa kubernetes?r:Sistema para orquestar contenedores.
+p:Por qué es importante kubernetes?r:Sistema para orquestar contenedores.
+p:Cómo se describe kubernetes?r:Sistema para orquestar contenedores.
+p:Dame una explicación breve de kubernetes?r:Sistema para orquestar contenedores.
+p:Háblame de kubernetes?r:Sistema para orquestar contenedores.
+p:Qué características tiene kubernetes?r:Sistema para orquestar contenedores.
+p:Qué sabes de kubernetes?r:Sistema para orquestar contenedores.
+p:Qué es ciberseguridad?r:Protección de sistemas, redes y datos.
+p:Para qué sirve ciberseguridad?r:Protección de sistemas, redes y datos.
+p:Cuál es la función de ciberseguridad?r:Protección de sistemas, redes y datos.
+p:Cómo se usa ciberseguridad?r:Protección de sistemas, redes y datos.
+p:Por qué es importante ciberseguridad?r:Protección de sistemas, redes y datos.
+p:Cómo se describe ciberseguridad?r:Protección de sistemas, redes y datos.
+p:Dame una explicación breve de ciberseguridad?r:Protección de sistemas, redes y datos.
+p:Háblame de ciberseguridad?r:Protección de sistemas, redes y datos.
+p:Qué características tiene ciberseguridad?r:Protección de sistemas, redes y datos.
+p:Qué sabes de ciberseguridad?r:Protección de sistemas, redes y datos.
+p:Qué es inteligencia artificial?r:Tecnología que simula capacidades inteligentes.
+p:Para qué sirve inteligencia artificial?r:Tecnología que simula capacidades inteligentes.
+p:Cuál es la función de inteligencia artificial?r:Tecnología que simula capacidades inteligentes.
+p:Cómo se usa inteligencia artificial?r:Tecnología que simula capacidades inteligentes.
+p:Por qué es importante inteligencia artificial?r:Tecnología que simula capacidades inteligentes.
+p:Cómo se describe inteligencia artificial?r:Tecnología que simula capacidades inteligentes.
+p:Dame una explicación breve de inteligencia artificial?r:Tecnología que simula capacidades inteligentes.
+p:Háblame de inteligencia artificial?r:Tecnología que simula capacidades inteligentes.
+p:Qué características tiene inteligencia artificial?r:Tecnología que simula capacidades inteligentes.
+p:Qué sabes de inteligencia artificial?r:Tecnología que simula capacidades inteligentes.

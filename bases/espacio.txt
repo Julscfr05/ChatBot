@@ -1,0 +1,500 @@
+p:Qué es mercurio?r:El planeta más cercano al Sol.
+p:Cuál es su función?r:El planeta más cercano al Sol.
+p:Dónde se encuentra mercurio?r:El planeta más cercano al Sol.
+p:Por qué es importante mercurio?r:El planeta más cercano al Sol.
+p:Cómo se describe mercurio?r:El planeta más cercano al Sol.
+p:Dame una explicación breve de mercurio?r:El planeta más cercano al Sol.
+p:Qué características tiene mercurio?r:El planeta más cercano al Sol.
+p:Háblame de mercurio?r:El planeta más cercano al Sol.
+p:Qué sabes de mercurio?r:El planeta más cercano al Sol.
+p:En qué consiste mercurio?r:El planeta más cercano al Sol.
+p:Qué es venus?r:El planeta más caliente del sistema solar.
+p:Cuál es su función?r:El planeta más caliente del sistema solar.
+p:Dónde se encuentra venus?r:El planeta más caliente del sistema solar.
+p:Por qué es importante venus?r:El planeta más caliente del sistema solar.
+p:Cómo se describe venus?r:El planeta más caliente del sistema solar.
+p:Dame una explicación breve de venus?r:El planeta más caliente del sistema solar.
+p:Qué características tiene venus?r:El planeta más caliente del sistema solar.
+p:Háblame de venus?r:El planeta más caliente del sistema solar.
+p:Qué sabes de venus?r:El planeta más caliente del sistema solar.
+p:En qué consiste venus?r:El planeta más caliente del sistema solar.
+p:Qué es tierra?r:El planeta donde vivimos.
+p:Cuál es su función?r:El planeta donde vivimos.
+p:Dónde se encuentra tierra?r:El planeta donde vivimos.
+p:Por qué es importante tierra?r:El planeta donde vivimos.
+p:Cómo se describe tierra?r:El planeta donde vivimos.
+p:Dame una explicación breve de tierra?r:El planeta donde vivimos.
+p:Qué características tiene tierra?r:El planeta donde vivimos.
+p:Háblame de tierra?r:El planeta donde vivimos.
+p:Qué sabes de tierra?r:El planeta donde vivimos.
+p:En qué consiste tierra?r:El planeta donde vivimos.
+p:Qué es marte?r:El planeta rojo.
+p:Cuál es su función?r:El planeta rojo.
+p:Dónde se encuentra marte?r:El planeta rojo.
+p:Por qué es importante marte?r:El planeta rojo.
+p:Cómo se describe marte?r:El planeta rojo.
+p:Dame una explicación breve de marte?r:El planeta rojo.
+p:Qué características tiene marte?r:El planeta rojo.
+p:Háblame de marte?r:El planeta rojo.
+p:Qué sabes de marte?r:El planeta rojo.
+p:En qué consiste marte?r:El planeta rojo.
+p:Qué es júpiter?r:El planeta más grande del sistema solar.
+p:Cuál es su función?r:El planeta más grande del sistema solar.
+p:Dónde se encuentra júpiter?r:El planeta más grande del sistema solar.
+p:Por qué es importante júpiter?r:El planeta más grande del sistema solar.
+p:Cómo se describe júpiter?r:El planeta más grande del sistema solar.
+p:Dame una explicación breve de júpiter?r:El planeta más grande del sistema solar.
+p:Qué características tiene júpiter?r:El planeta más grande del sistema solar.
+p:Háblame de júpiter?r:El planeta más grande del sistema solar.
+p:Qué sabes de júpiter?r:El planeta más grande del sistema solar.
+p:En qué consiste júpiter?r:El planeta más grande del sistema solar.
+p:Qué es saturno?r:El planeta famoso por sus anillos.
+p:Cuál es su función?r:El planeta famoso por sus anillos.
+p:Dónde se encuentra saturno?r:El planeta famoso por sus anillos.
+p:Por qué es importante saturno?r:El planeta famoso por sus anillos.
+p:Cómo se describe saturno?r:El planeta famoso por sus anillos.
+p:Dame una explicación breve de saturno?r:El planeta famoso por sus anillos.
+p:Qué características tiene saturno?r:El planeta famoso por sus anillos.
+p:Háblame de saturno?r:El planeta famoso por sus anillos.
+p:Qué sabes de saturno?r:El planeta famoso por sus anillos.
+p:En qué consiste saturno?r:El planeta famoso por sus anillos.
+p:Qué es urano?r:Un gigante helado con fuerte inclinación.
+p:Cuál es su función?r:Un gigante helado con fuerte inclinación.
+p:Dónde se encuentra urano?r:Un gigante helado con fuerte inclinación.
+p:Por qué es importante urano?r:Un gigante helado con fuerte inclinación.
+p:Cómo se describe urano?r:Un gigante helado con fuerte inclinación.
+p:Dame una explicación breve de urano?r:Un gigante helado con fuerte inclinación.
+p:Qué características tiene urano?r:Un gigante helado con fuerte inclinación.
+p:Háblame de urano?r:Un gigante helado con fuerte inclinación.
+p:Qué sabes de urano?r:Un gigante helado con fuerte inclinación.
+p:En qué consiste urano?r:Un gigante helado con fuerte inclinación.
+p:Qué es neptuno?r:El planeta más lejano reconocido del sistema solar.
+p:Cuál es su función?r:El planeta más lejano reconocido del sistema solar.
+p:Dónde se encuentra neptuno?r:El planeta más lejano reconocido del sistema solar.
+p:Por qué es importante neptuno?r:El planeta más lejano reconocido del sistema solar.
+p:Cómo se describe neptuno?r:El planeta más lejano reconocido del sistema solar.
+p:Dame una explicación breve de neptuno?r:El planeta más lejano reconocido del sistema solar.
+p:Qué características tiene neptuno?r:El planeta más lejano reconocido del sistema solar.
+p:Háblame de neptuno?r:El planeta más lejano reconocido del sistema solar.
+p:Qué sabes de neptuno?r:El planeta más lejano reconocido del sistema solar.
+p:En qué consiste neptuno?r:El planeta más lejano reconocido del sistema solar.
+p:Qué es sol?r:La estrella central del sistema solar.
+p:Cuál es su función?r:La estrella central del sistema solar.
+p:Dónde se encuentra sol?r:La estrella central del sistema solar.
+p:Por qué es importante sol?r:La estrella central del sistema solar.
+p:Cómo se describe sol?r:La estrella central del sistema solar.
+p:Dame una explicación breve de sol?r:La estrella central del sistema solar.
+p:Qué características tiene sol?r:La estrella central del sistema solar.
+p:Háblame de sol?r:La estrella central del sistema solar.
+p:Qué sabes de sol?r:La estrella central del sistema solar.
+p:En qué consiste sol?r:La estrella central del sistema solar.
+p:Qué es luna?r:El satélite natural de la Tierra.
+p:Cuál es su función?r:El satélite natural de la Tierra.
+p:Dónde se encuentra luna?r:El satélite natural de la Tierra.
+p:Por qué es importante luna?r:El satélite natural de la Tierra.
+p:Cómo se describe luna?r:El satélite natural de la Tierra.
+p:Dame una explicación breve de luna?r:El satélite natural de la Tierra.
+p:Qué características tiene luna?r:El satélite natural de la Tierra.
+p:Háblame de luna?r:El satélite natural de la Tierra.
+p:Qué sabes de luna?r:El satélite natural de la Tierra.
+p:En qué consiste luna?r:El satélite natural de la Tierra.
+p:Qué es vía láctea?r:La galaxia donde está el sistema solar.
+p:Cuál es su función?r:La galaxia donde está el sistema solar.
+p:Dónde se encuentra vía láctea?r:La galaxia donde está el sistema solar.
+p:Por qué es importante vía láctea?r:La galaxia donde está el sistema solar.
+p:Cómo se describe vía láctea?r:La galaxia donde está el sistema solar.
+p:Dame una explicación breve de vía láctea?r:La galaxia donde está el sistema solar.
+p:Qué características tiene vía láctea?r:La galaxia donde está el sistema solar.
+p:Háblame de vía láctea?r:La galaxia donde está el sistema solar.
+p:Qué sabes de vía láctea?r:La galaxia donde está el sistema solar.
+p:En qué consiste vía láctea?r:La galaxia donde está el sistema solar.
+p:Qué es agujero negro?r:Región con gravedad extremadamente intensa.
+p:Cuál es su función?r:Región con gravedad extremadamente intensa.
+p:Dónde se encuentra agujero negro?r:Región con gravedad extremadamente intensa.
+p:Por qué es importante agujero negro?r:Región con gravedad extremadamente intensa.
+p:Cómo se describe agujero negro?r:Región con gravedad extremadamente intensa.
+p:Dame una explicación breve de agujero negro?r:Región con gravedad extremadamente intensa.
+p:Qué características tiene agujero negro?r:Región con gravedad extremadamente intensa.
+p:Háblame de agujero negro?r:Región con gravedad extremadamente intensa.
+p:Qué sabes de agujero negro?r:Región con gravedad extremadamente intensa.
+p:En qué consiste agujero negro?r:Región con gravedad extremadamente intensa.
+p:Qué es cometa?r:Cuerpo de hielo y polvo que deja cola.
+p:Cuál es su función?r:Cuerpo de hielo y polvo que deja cola.
+p:Dónde se encuentra cometa?r:Cuerpo de hielo y polvo que deja cola.
+p:Por qué es importante cometa?r:Cuerpo de hielo y polvo que deja cola.
+p:Cómo se describe cometa?r:Cuerpo de hielo y polvo que deja cola.
+p:Dame una explicación breve de cometa?r:Cuerpo de hielo y polvo que deja cola.
+p:Qué características tiene cometa?r:Cuerpo de hielo y polvo que deja cola.
+p:Háblame de cometa?r:Cuerpo de hielo y polvo que deja cola.
+p:Qué sabes de cometa?r:Cuerpo de hielo y polvo que deja cola.
+p:En qué consiste cometa?r:Cuerpo de hielo y polvo que deja cola.
+p:Qué es asteroide?r:Cuerpo rocoso que orbita el Sol.
+p:Cuál es su función?r:Cuerpo rocoso que orbita el Sol.
+p:Dónde se encuentra asteroide?r:Cuerpo rocoso que orbita el Sol.
+p:Por qué es importante asteroide?r:Cuerpo rocoso que orbita el Sol.
+p:Cómo se describe asteroide?r:Cuerpo rocoso que orbita el Sol.
+p:Dame una explicación breve de asteroide?r:Cuerpo rocoso que orbita el Sol.
+p:Qué características tiene asteroide?r:Cuerpo rocoso que orbita el Sol.
+p:Háblame de asteroide?r:Cuerpo rocoso que orbita el Sol.
+p:Qué sabes de asteroide?r:Cuerpo rocoso que orbita el Sol.
+p:En qué consiste asteroide?r:Cuerpo rocoso que orbita el Sol.
+p:Qué es meteoro?r:Destello producido al entrar un cuerpo en la atmósfera.
+p:Cuál es su función?r:Destello producido al entrar un cuerpo en la atmósfera.
+p:Dónde se encuentra meteoro?r:Destello producido al entrar un cuerpo en la atmósfera.
+p:Por qué es importante meteoro?r:Destello producido al entrar un cuerpo en la atmósfera.
+p:Cómo se describe meteoro?r:Destello producido al entrar un cuerpo en la atmósfera.
+p:Dame una explicación breve de meteoro?r:Destello producido al entrar un cuerpo en la atmósfera.
+p:Qué características tiene meteoro?r:Destello producido al entrar un cuerpo en la atmósfera.
+p:Háblame de meteoro?r:Destello producido al entrar un cuerpo en la atmósfera.
+p:Qué sabes de meteoro?r:Destello producido al entrar un cuerpo en la atmósfera.
+p:En qué consiste meteoro?r:Destello producido al entrar un cuerpo en la atmósfera.
+p:Qué es meteorito?r:Fragmento que llega al suelo desde el espacio.
+p:Cuál es su función?r:Fragmento que llega al suelo desde el espacio.
+p:Dónde se encuentra meteorito?r:Fragmento que llega al suelo desde el espacio.
+p:Por qué es importante meteorito?r:Fragmento que llega al suelo desde el espacio.
+p:Cómo se describe meteorito?r:Fragmento que llega al suelo desde el espacio.
+p:Dame una explicación breve de meteorito?r:Fragmento que llega al suelo desde el espacio.
+p:Qué características tiene meteorito?r:Fragmento que llega al suelo desde el espacio.
+p:Háblame de meteorito?r:Fragmento que llega al suelo desde el espacio.
+p:Qué sabes de meteorito?r:Fragmento que llega al suelo desde el espacio.
+p:En qué consiste meteorito?r:Fragmento que llega al suelo desde el espacio.
+p:Qué es eclipse solar?r:Ocurre cuando la Luna tapa al Sol.
+p:Cuál es su función?r:Ocurre cuando la Luna tapa al Sol.
+p:Dónde se encuentra eclipse solar?r:Ocurre cuando la Luna tapa al Sol.
+p:Por qué es importante eclipse solar?r:Ocurre cuando la Luna tapa al Sol.
+p:Cómo se describe eclipse solar?r:Ocurre cuando la Luna tapa al Sol.
+p:Dame una explicación breve de eclipse solar?r:Ocurre cuando la Luna tapa al Sol.
+p:Qué características tiene eclipse solar?r:Ocurre cuando la Luna tapa al Sol.
+p:Háblame de eclipse solar?r:Ocurre cuando la Luna tapa al Sol.
+p:Qué sabes de eclipse solar?r:Ocurre cuando la Luna tapa al Sol.
+p:En qué consiste eclipse solar?r:Ocurre cuando la Luna tapa al Sol.
+p:Qué es eclipse lunar?r:Ocurre cuando la Tierra oscurece la Luna.
+p:Cuál es su función?r:Ocurre cuando la Tierra oscurece la Luna.
+p:Dónde se encuentra eclipse lunar?r:Ocurre cuando la Tierra oscurece la Luna.
+p:Por qué es importante eclipse lunar?r:Ocurre cuando la Tierra oscurece la Luna.
+p:Cómo se describe eclipse lunar?r:Ocurre cuando la Tierra oscurece la Luna.
+p:Dame una explicación breve de eclipse lunar?r:Ocurre cuando la Tierra oscurece la Luna.
+p:Qué características tiene eclipse lunar?r:Ocurre cuando la Tierra oscurece la Luna.
+p:Háblame de eclipse lunar?r:Ocurre cuando la Tierra oscurece la Luna.
+p:Qué sabes de eclipse lunar?r:Ocurre cuando la Tierra oscurece la Luna.
+p:En qué consiste eclipse lunar?r:Ocurre cuando la Tierra oscurece la Luna.
+p:Qué es constelación?r:Grupo de estrellas que forma una figura.
+p:Cuál es su función?r:Grupo de estrellas que forma una figura.
+p:Dónde se encuentra constelación?r:Grupo de estrellas que forma una figura.
+p:Por qué es importante constelación?r:Grupo de estrellas que forma una figura.
+p:Cómo se describe constelación?r:Grupo de estrellas que forma una figura.
+p:Dame una explicación breve de constelación?r:Grupo de estrellas que forma una figura.
+p:Qué características tiene constelación?r:Grupo de estrellas que forma una figura.
+p:Háblame de constelación?r:Grupo de estrellas que forma una figura.
+p:Qué sabes de constelación?r:Grupo de estrellas que forma una figura.
+p:En qué consiste constelación?r:Grupo de estrellas que forma una figura.
+p:Qué es cinturón de asteroides?r:Zona entre Marte y Júpiter con muchos asteroides.
+p:Cuál es su función?r:Zona entre Marte y Júpiter con muchos asteroides.
+p:Dónde se encuentra cinturón de asteroides?r:Zona entre Marte y Júpiter con muchos asteroides.
+p:Por qué es importante cinturón de asteroides?r:Zona entre Marte y Júpiter con muchos asteroides.
+p:Cómo se describe cinturón de asteroides?r:Zona entre Marte y Júpiter con muchos asteroides.
+p:Dame una explicación breve de cinturón de asteroides?r:Zona entre Marte y Júpiter con muchos asteroides.
+p:Qué características tiene cinturón de asteroides?r:Zona entre Marte y Júpiter con muchos asteroides.
+p:Háblame de cinturón de asteroides?r:Zona entre Marte y Júpiter con muchos asteroides.
+p:Qué sabes de cinturón de asteroides?r:Zona entre Marte y Júpiter con muchos asteroides.
+p:En qué consiste cinturón de asteroides?r:Zona entre Marte y Júpiter con muchos asteroides.
+p:Qué es cinturón de kuiper?r:Región helada más allá de Neptuno.
+p:Cuál es su función?r:Región helada más allá de Neptuno.
+p:Dónde se encuentra cinturón de kuiper?r:Región helada más allá de Neptuno.
+p:Por qué es importante cinturón de kuiper?r:Región helada más allá de Neptuno.
+p:Cómo se describe cinturón de kuiper?r:Región helada más allá de Neptuno.
+p:Dame una explicación breve de cinturón de kuiper?r:Región helada más allá de Neptuno.
+p:Qué características tiene cinturón de kuiper?r:Región helada más allá de Neptuno.
+p:Háblame de cinturón de kuiper?r:Región helada más allá de Neptuno.
+p:Qué sabes de cinturón de kuiper?r:Región helada más allá de Neptuno.
+p:En qué consiste cinturón de kuiper?r:Región helada más allá de Neptuno.
+p:Qué es nasa?r:Agencia espacial de Estados Unidos.
+p:Cuál es su función?r:Agencia espacial de Estados Unidos.
+p:Dónde se encuentra nasa?r:Agencia espacial de Estados Unidos.
+p:Por qué es importante nasa?r:Agencia espacial de Estados Unidos.
+p:Cómo se describe nasa?r:Agencia espacial de Estados Unidos.
+p:Dame una explicación breve de nasa?r:Agencia espacial de Estados Unidos.
+p:Qué características tiene nasa?r:Agencia espacial de Estados Unidos.
+p:Háblame de nasa?r:Agencia espacial de Estados Unidos.
+p:Qué sabes de nasa?r:Agencia espacial de Estados Unidos.
+p:En qué consiste nasa?r:Agencia espacial de Estados Unidos.
+p:Qué es esa?r:Agencia Espacial Europea.
+p:Cuál es su función?r:Agencia Espacial Europea.
+p:Dónde se encuentra esa?r:Agencia Espacial Europea.
+p:Por qué es importante esa?r:Agencia Espacial Europea.
+p:Cómo se describe esa?r:Agencia Espacial Europea.
+p:Dame una explicación breve de esa?r:Agencia Espacial Europea.
+p:Qué características tiene esa?r:Agencia Espacial Europea.
+p:Háblame de esa?r:Agencia Espacial Europea.
+p:Qué sabes de esa?r:Agencia Espacial Europea.
+p:En qué consiste esa?r:Agencia Espacial Europea.
+p:Qué es apollo 11?r:Misión que llevó al primer ser humano a la Luna.
+p:Cuál es su función?r:Misión que llevó al primer ser humano a la Luna.
+p:Dónde se encuentra apollo 11?r:Misión que llevó al primer ser humano a la Luna.
+p:Por qué es importante apollo 11?r:Misión que llevó al primer ser humano a la Luna.
+p:Cómo se describe apollo 11?r:Misión que llevó al primer ser humano a la Luna.
+p:Dame una explicación breve de apollo 11?r:Misión que llevó al primer ser humano a la Luna.
+p:Qué características tiene apollo 11?r:Misión que llevó al primer ser humano a la Luna.
+p:Háblame de apollo 11?r:Misión que llevó al primer ser humano a la Luna.
+p:Qué sabes de apollo 11?r:Misión que llevó al primer ser humano a la Luna.
+p:En qué consiste apollo 11?r:Misión que llevó al primer ser humano a la Luna.
+p:Qué es neil armstrong?r:Primer ser humano en pisar la Luna.
+p:Cuál es su función?r:Primer ser humano en pisar la Luna.
+p:Dónde se encuentra neil armstrong?r:Primer ser humano en pisar la Luna.
+p:Por qué es importante neil armstrong?r:Primer ser humano en pisar la Luna.
+p:Cómo se describe neil armstrong?r:Primer ser humano en pisar la Luna.
+p:Dame una explicación breve de neil armstrong?r:Primer ser humano en pisar la Luna.
+p:Qué características tiene neil armstrong?r:Primer ser humano en pisar la Luna.
+p:Háblame de neil armstrong?r:Primer ser humano en pisar la Luna.
+p:Qué sabes de neil armstrong?r:Primer ser humano en pisar la Luna.
+p:En qué consiste neil armstrong?r:Primer ser humano en pisar la Luna.
+p:Qué es yuri gagarin?r:Primer ser humano en viajar al espacio.
+p:Cuál es su función?r:Primer ser humano en viajar al espacio.
+p:Dónde se encuentra yuri gagarin?r:Primer ser humano en viajar al espacio.
+p:Por qué es importante yuri gagarin?r:Primer ser humano en viajar al espacio.
+p:Cómo se describe yuri gagarin?r:Primer ser humano en viajar al espacio.
+p:Dame una explicación breve de yuri gagarin?r:Primer ser humano en viajar al espacio.
+p:Qué características tiene yuri gagarin?r:Primer ser humano en viajar al espacio.
+p:Háblame de yuri gagarin?r:Primer ser humano en viajar al espacio.
+p:Qué sabes de yuri gagarin?r:Primer ser humano en viajar al espacio.
+p:En qué consiste yuri gagarin?r:Primer ser humano en viajar al espacio.
+p:Qué es estación espacial internacional?r:Laboratorio orbital que gira alrededor de la Tierra.
+p:Cuál es su función?r:Laboratorio orbital que gira alrededor de la Tierra.
+p:Dónde se encuentra estación espacial internacional?r:Laboratorio orbital que gira alrededor de la Tierra.
+p:Por qué es importante estación espacial internacional?r:Laboratorio orbital que gira alrededor de la Tierra.
+p:Cómo se describe estación espacial internacional?r:Laboratorio orbital que gira alrededor de la Tierra.
+p:Dame una explicación breve de estación espacial internacional?r:Laboratorio orbital que gira alrededor de la Tierra.
+p:Qué características tiene estación espacial internacional?r:Laboratorio orbital que gira alrededor de la Tierra.
+p:Háblame de estación espacial internacional?r:Laboratorio orbital que gira alrededor de la Tierra.
+p:Qué sabes de estación espacial internacional?r:Laboratorio orbital que gira alrededor de la Tierra.
+p:En qué consiste estación espacial internacional?r:Laboratorio orbital que gira alrededor de la Tierra.
+p:Qué es telescopio?r:Instrumento para observar objetos lejanos.
+p:Cuál es su función?r:Instrumento para observar objetos lejanos.
+p:Dónde se encuentra telescopio?r:Instrumento para observar objetos lejanos.
+p:Por qué es importante telescopio?r:Instrumento para observar objetos lejanos.
+p:Cómo se describe telescopio?r:Instrumento para observar objetos lejanos.
+p:Dame una explicación breve de telescopio?r:Instrumento para observar objetos lejanos.
+p:Qué características tiene telescopio?r:Instrumento para observar objetos lejanos.
+p:Háblame de telescopio?r:Instrumento para observar objetos lejanos.
+p:Qué sabes de telescopio?r:Instrumento para observar objetos lejanos.
+p:En qué consiste telescopio?r:Instrumento para observar objetos lejanos.
+p:Qué es rover?r:Vehículo robótico para explorar superficies planetarias.
+p:Cuál es su función?r:Vehículo robótico para explorar superficies planetarias.
+p:Dónde se encuentra rover?r:Vehículo robótico para explorar superficies planetarias.
+p:Por qué es importante rover?r:Vehículo robótico para explorar superficies planetarias.
+p:Cómo se describe rover?r:Vehículo robótico para explorar superficies planetarias.
+p:Dame una explicación breve de rover?r:Vehículo robótico para explorar superficies planetarias.
+p:Qué características tiene rover?r:Vehículo robótico para explorar superficies planetarias.
+p:Háblame de rover?r:Vehículo robótico para explorar superficies planetarias.
+p:Qué sabes de rover?r:Vehículo robótico para explorar superficies planetarias.
+p:En qué consiste rover?r:Vehículo robótico para explorar superficies planetarias.
+p:Qué es órbita?r:Trayectoria que sigue un cuerpo celeste.
+p:Cuál es su función?r:Trayectoria que sigue un cuerpo celeste.
+p:Dónde se encuentra órbita?r:Trayectoria que sigue un cuerpo celeste.
+p:Por qué es importante órbita?r:Trayectoria que sigue un cuerpo celeste.
+p:Cómo se describe órbita?r:Trayectoria que sigue un cuerpo celeste.
+p:Dame una explicación breve de órbita?r:Trayectoria que sigue un cuerpo celeste.
+p:Qué características tiene órbita?r:Trayectoria que sigue un cuerpo celeste.
+p:Háblame de órbita?r:Trayectoria que sigue un cuerpo celeste.
+p:Qué sabes de órbita?r:Trayectoria que sigue un cuerpo celeste.
+p:En qué consiste órbita?r:Trayectoria que sigue un cuerpo celeste.
+p:Qué es gravedad?r:Fuerza de atracción entre cuerpos.
+p:Cuál es su función?r:Fuerza de atracción entre cuerpos.
+p:Dónde se encuentra gravedad?r:Fuerza de atracción entre cuerpos.
+p:Por qué es importante gravedad?r:Fuerza de atracción entre cuerpos.
+p:Cómo se describe gravedad?r:Fuerza de atracción entre cuerpos.
+p:Dame una explicación breve de gravedad?r:Fuerza de atracción entre cuerpos.
+p:Qué características tiene gravedad?r:Fuerza de atracción entre cuerpos.
+p:Háblame de gravedad?r:Fuerza de atracción entre cuerpos.
+p:Qué sabes de gravedad?r:Fuerza de atracción entre cuerpos.
+p:En qué consiste gravedad?r:Fuerza de atracción entre cuerpos.
+p:Qué es año luz?r:Unidad de distancia astronómica.
+p:Cuál es su función?r:Unidad de distancia astronómica.
+p:Dónde se encuentra año luz?r:Unidad de distancia astronómica.
+p:Por qué es importante año luz?r:Unidad de distancia astronómica.
+p:Cómo se describe año luz?r:Unidad de distancia astronómica.
+p:Dame una explicación breve de año luz?r:Unidad de distancia astronómica.
+p:Qué características tiene año luz?r:Unidad de distancia astronómica.
+p:Háblame de año luz?r:Unidad de distancia astronómica.
+p:Qué sabes de año luz?r:Unidad de distancia astronómica.
+p:En qué consiste año luz?r:Unidad de distancia astronómica.
+p:Qué es estrella?r:Esfera de gas que emite luz y calor.
+p:Cuál es su función?r:Esfera de gas que emite luz y calor.
+p:Dónde se encuentra estrella?r:Esfera de gas que emite luz y calor.
+p:Por qué es importante estrella?r:Esfera de gas que emite luz y calor.
+p:Cómo se describe estrella?r:Esfera de gas que emite luz y calor.
+p:Dame una explicación breve de estrella?r:Esfera de gas que emite luz y calor.
+p:Qué características tiene estrella?r:Esfera de gas que emite luz y calor.
+p:Háblame de estrella?r:Esfera de gas que emite luz y calor.
+p:Qué sabes de estrella?r:Esfera de gas que emite luz y calor.
+p:En qué consiste estrella?r:Esfera de gas que emite luz y calor.
+p:Qué es galaxia?r:Gran conjunto de estrellas, gas y polvo.
+p:Cuál es su función?r:Gran conjunto de estrellas, gas y polvo.
+p:Dónde se encuentra galaxia?r:Gran conjunto de estrellas, gas y polvo.
+p:Por qué es importante galaxia?r:Gran conjunto de estrellas, gas y polvo.
+p:Cómo se describe galaxia?r:Gran conjunto de estrellas, gas y polvo.
+p:Dame una explicación breve de galaxia?r:Gran conjunto de estrellas, gas y polvo.
+p:Qué características tiene galaxia?r:Gran conjunto de estrellas, gas y polvo.
+p:Háblame de galaxia?r:Gran conjunto de estrellas, gas y polvo.
+p:Qué sabes de galaxia?r:Gran conjunto de estrellas, gas y polvo.
+p:En qué consiste galaxia?r:Gran conjunto de estrellas, gas y polvo.
+p:Qué es nebulosa?r:Nube de gas y polvo en el espacio.
+p:Cuál es su función?r:Nube de gas y polvo en el espacio.
+p:Dónde se encuentra nebulosa?r:Nube de gas y polvo en el espacio.
+p:Por qué es importante nebulosa?r:Nube de gas y polvo en el espacio.
+p:Cómo se describe nebulosa?r:Nube de gas y polvo en el espacio.
+p:Dame una explicación breve de nebulosa?r:Nube de gas y polvo en el espacio.
+p:Qué características tiene nebulosa?r:Nube de gas y polvo en el espacio.
+p:Háblame de nebulosa?r:Nube de gas y polvo en el espacio.
+p:Qué sabes de nebulosa?r:Nube de gas y polvo en el espacio.
+p:En qué consiste nebulosa?r:Nube de gas y polvo en el espacio.
+p:Qué es supernova?r:Explosión final de una estrella masiva.
+p:Cuál es su función?r:Explosión final de una estrella masiva.
+p:Dónde se encuentra supernova?r:Explosión final de una estrella masiva.
+p:Por qué es importante supernova?r:Explosión final de una estrella masiva.
+p:Cómo se describe supernova?r:Explosión final de una estrella masiva.
+p:Dame una explicación breve de supernova?r:Explosión final de una estrella masiva.
+p:Qué características tiene supernova?r:Explosión final de una estrella masiva.
+p:Háblame de supernova?r:Explosión final de una estrella masiva.
+p:Qué sabes de supernova?r:Explosión final de una estrella masiva.
+p:En qué consiste supernova?r:Explosión final de una estrella masiva.
+p:Qué es exoplaneta?r:Planeta que orbita una estrella distinta al Sol.
+p:Cuál es su función?r:Planeta que orbita una estrella distinta al Sol.
+p:Dónde se encuentra exoplaneta?r:Planeta que orbita una estrella distinta al Sol.
+p:Por qué es importante exoplaneta?r:Planeta que orbita una estrella distinta al Sol.
+p:Cómo se describe exoplaneta?r:Planeta que orbita una estrella distinta al Sol.
+p:Dame una explicación breve de exoplaneta?r:Planeta que orbita una estrella distinta al Sol.
+p:Qué características tiene exoplaneta?r:Planeta que orbita una estrella distinta al Sol.
+p:Háblame de exoplaneta?r:Planeta que orbita una estrella distinta al Sol.
+p:Qué sabes de exoplaneta?r:Planeta que orbita una estrella distinta al Sol.
+p:En qué consiste exoplaneta?r:Planeta que orbita una estrella distinta al Sol.
+p:Qué es planeta enano?r:Cuerpo celeste que no domina su órbita.
+p:Cuál es su función?r:Cuerpo celeste que no domina su órbita.
+p:Dónde se encuentra planeta enano?r:Cuerpo celeste que no domina su órbita.
+p:Por qué es importante planeta enano?r:Cuerpo celeste que no domina su órbita.
+p:Cómo se describe planeta enano?r:Cuerpo celeste que no domina su órbita.
+p:Dame una explicación breve de planeta enano?r:Cuerpo celeste que no domina su órbita.
+p:Qué características tiene planeta enano?r:Cuerpo celeste que no domina su órbita.
+p:Háblame de planeta enano?r:Cuerpo celeste que no domina su órbita.
+p:Qué sabes de planeta enano?r:Cuerpo celeste que no domina su órbita.
+p:En qué consiste planeta enano?r:Cuerpo celeste que no domina su órbita.
+p:Qué es plutón?r:Planeta enano del sistema solar exterior.
+p:Cuál es su función?r:Planeta enano del sistema solar exterior.
+p:Dónde se encuentra plutón?r:Planeta enano del sistema solar exterior.
+p:Por qué es importante plutón?r:Planeta enano del sistema solar exterior.
+p:Cómo se describe plutón?r:Planeta enano del sistema solar exterior.
+p:Dame una explicación breve de plutón?r:Planeta enano del sistema solar exterior.
+p:Qué características tiene plutón?r:Planeta enano del sistema solar exterior.
+p:Háblame de plutón?r:Planeta enano del sistema solar exterior.
+p:Qué sabes de plutón?r:Planeta enano del sistema solar exterior.
+p:En qué consiste plutón?r:Planeta enano del sistema solar exterior.
+p:Qué es fases de la luna?r:Cambios visibles de la parte iluminada.
+p:Cuál es su función?r:Cambios visibles de la parte iluminada.
+p:Dónde se encuentra fases de la luna?r:Cambios visibles de la parte iluminada.
+p:Por qué es importante fases de la luna?r:Cambios visibles de la parte iluminada.
+p:Cómo se describe fases de la luna?r:Cambios visibles de la parte iluminada.
+p:Dame una explicación breve de fases de la luna?r:Cambios visibles de la parte iluminada.
+p:Qué características tiene fases de la luna?r:Cambios visibles de la parte iluminada.
+p:Háblame de fases de la luna?r:Cambios visibles de la parte iluminada.
+p:Qué sabes de fases de la luna?r:Cambios visibles de la parte iluminada.
+p:En qué consiste fases de la luna?r:Cambios visibles de la parte iluminada.
+p:Qué es solsticio?r:Momento en que el Sol alcanza su máxima o mínima altura.
+p:Cuál es su función?r:Momento en que el Sol alcanza su máxima o mínima altura.
+p:Dónde se encuentra solsticio?r:Momento en que el Sol alcanza su máxima o mínima altura.
+p:Por qué es importante solsticio?r:Momento en que el Sol alcanza su máxima o mínima altura.
+p:Cómo se describe solsticio?r:Momento en que el Sol alcanza su máxima o mínima altura.
+p:Dame una explicación breve de solsticio?r:Momento en que el Sol alcanza su máxima o mínima altura.
+p:Qué características tiene solsticio?r:Momento en que el Sol alcanza su máxima o mínima altura.
+p:Háblame de solsticio?r:Momento en que el Sol alcanza su máxima o mínima altura.
+p:Qué sabes de solsticio?r:Momento en que el Sol alcanza su máxima o mínima altura.
+p:En qué consiste solsticio?r:Momento en que el Sol alcanza su máxima o mínima altura.
+p:Qué es equinoccio?r:Momento en que el día y la noche duran casi igual.
+p:Cuál es su función?r:Momento en que el día y la noche duran casi igual.
+p:Dónde se encuentra equinoccio?r:Momento en que el día y la noche duran casi igual.
+p:Por qué es importante equinoccio?r:Momento en que el día y la noche duran casi igual.
+p:Cómo se describe equinoccio?r:Momento en que el día y la noche duran casi igual.
+p:Dame una explicación breve de equinoccio?r:Momento en que el día y la noche duran casi igual.
+p:Qué características tiene equinoccio?r:Momento en que el día y la noche duran casi igual.
+p:Háblame de equinoccio?r:Momento en que el día y la noche duran casi igual.
+p:Qué sabes de equinoccio?r:Momento en que el día y la noche duran casi igual.
+p:En qué consiste equinoccio?r:Momento en que el día y la noche duran casi igual.
+p:Qué es polaris?r:Estrella del norte.
+p:Cuál es su función?r:Estrella del norte.
+p:Dónde se encuentra polaris?r:Estrella del norte.
+p:Por qué es importante polaris?r:Estrella del norte.
+p:Cómo se describe polaris?r:Estrella del norte.
+p:Dame una explicación breve de polaris?r:Estrella del norte.
+p:Qué características tiene polaris?r:Estrella del norte.
+p:Háblame de polaris?r:Estrella del norte.
+p:Qué sabes de polaris?r:Estrella del norte.
+p:En qué consiste polaris?r:Estrella del norte.
+p:Qué es orión?r:Constelación muy conocida del cielo nocturno.
+p:Cuál es su función?r:Constelación muy conocida del cielo nocturno.
+p:Dónde se encuentra orión?r:Constelación muy conocida del cielo nocturno.
+p:Por qué es importante orión?r:Constelación muy conocida del cielo nocturno.
+p:Cómo se describe orión?r:Constelación muy conocida del cielo nocturno.
+p:Dame una explicación breve de orión?r:Constelación muy conocida del cielo nocturno.
+p:Qué características tiene orión?r:Constelación muy conocida del cielo nocturno.
+p:Háblame de orión?r:Constelación muy conocida del cielo nocturno.
+p:Qué sabes de orión?r:Constelación muy conocida del cielo nocturno.
+p:En qué consiste orión?r:Constelación muy conocida del cielo nocturno.
+p:Qué es andrómeda?r:Galaxia espiral vecina a la Vía Láctea.
+p:Cuál es su función?r:Galaxia espiral vecina a la Vía Láctea.
+p:Dónde se encuentra andrómeda?r:Galaxia espiral vecina a la Vía Láctea.
+p:Por qué es importante andrómeda?r:Galaxia espiral vecina a la Vía Láctea.
+p:Cómo se describe andrómeda?r:Galaxia espiral vecina a la Vía Láctea.
+p:Dame una explicación breve de andrómeda?r:Galaxia espiral vecina a la Vía Láctea.
+p:Qué características tiene andrómeda?r:Galaxia espiral vecina a la Vía Láctea.
+p:Háblame de andrómeda?r:Galaxia espiral vecina a la Vía Láctea.
+p:Qué sabes de andrómeda?r:Galaxia espiral vecina a la Vía Láctea.
+p:En qué consiste andrómeda?r:Galaxia espiral vecina a la Vía Láctea.
+p:Qué es big bang?r:Teoría sobre el origen del universo.
+p:Cuál es su función?r:Teoría sobre el origen del universo.
+p:Dónde se encuentra big bang?r:Teoría sobre el origen del universo.
+p:Por qué es importante big bang?r:Teoría sobre el origen del universo.
+p:Cómo se describe big bang?r:Teoría sobre el origen del universo.
+p:Dame una explicación breve de big bang?r:Teoría sobre el origen del universo.
+p:Qué características tiene big bang?r:Teoría sobre el origen del universo.
+p:Háblame de big bang?r:Teoría sobre el origen del universo.
+p:Qué sabes de big bang?r:Teoría sobre el origen del universo.
+p:En qué consiste big bang?r:Teoría sobre el origen del universo.
+p:Qué es velocidad de escape?r:Velocidad mínima para abandonar un cuerpo celeste.
+p:Cuál es su función?r:Velocidad mínima para abandonar un cuerpo celeste.
+p:Dónde se encuentra velocidad de escape?r:Velocidad mínima para abandonar un cuerpo celeste.
+p:Por qué es importante velocidad de escape?r:Velocidad mínima para abandonar un cuerpo celeste.
+p:Cómo se describe velocidad de escape?r:Velocidad mínima para abandonar un cuerpo celeste.
+p:Dame una explicación breve de velocidad de escape?r:Velocidad mínima para abandonar un cuerpo celeste.
+p:Qué características tiene velocidad de escape?r:Velocidad mínima para abandonar un cuerpo celeste.
+p:Háblame de velocidad de escape?r:Velocidad mínima para abandonar un cuerpo celeste.
+p:Qué sabes de velocidad de escape?r:Velocidad mínima para abandonar un cuerpo celeste.
+p:En qué consiste velocidad de escape?r:Velocidad mínima para abandonar un cuerpo celeste.
+p:Qué es satélite artificial?r:Objeto creado por humanos que orbita la Tierra.
+p:Cuál es su función?r:Objeto creado por humanos que orbita la Tierra.
+p:Dónde se encuentra satélite artificial?r:Objeto creado por humanos que orbita la Tierra.
+p:Por qué es importante satélite artificial?r:Objeto creado por humanos que orbita la Tierra.
+p:Cómo se describe satélite artificial?r:Objeto creado por humanos que orbita la Tierra.
+p:Dame una explicación breve de satélite artificial?r:Objeto creado por humanos que orbita la Tierra.
+p:Qué características tiene satélite artificial?r:Objeto creado por humanos que orbita la Tierra.
+p:Háblame de satélite artificial?r:Objeto creado por humanos que orbita la Tierra.
+p:Qué sabes de satélite artificial?r:Objeto creado por humanos que orbita la Tierra.
+p:En qué consiste satélite artificial?r:Objeto creado por humanos que orbita la Tierra.
+p:Qué es cohete?r:Vehículo que impulsa cargas al espacio.
+p:Cuál es su función?r:Vehículo que impulsa cargas al espacio.
+p:Dónde se encuentra cohete?r:Vehículo que impulsa cargas al espacio.
+p:Por qué es importante cohete?r:Vehículo que impulsa cargas al espacio.
+p:Cómo se describe cohete?r:Vehículo que impulsa cargas al espacio.
+p:Dame una explicación breve de cohete?r:Vehículo que impulsa cargas al espacio.
+p:Qué características tiene cohete?r:Vehículo que impulsa cargas al espacio.
+p:Háblame de cohete?r:Vehículo que impulsa cargas al espacio.
+p:Qué sabes de cohete?r:Vehículo que impulsa cargas al espacio.
+p:En qué consiste cohete?r:Vehículo que impulsa cargas al espacio.
+p:Qué es traje espacial?r:Protección que usan los astronautas.
+p:Cuál es su función?r:Protección que usan los astronautas.
+p:Dónde se encuentra traje espacial?r:Protección que usan los astronautas.
+p:Por qué es importante traje espacial?r:Protección que usan los astronautas.
+p:Cómo se describe traje espacial?r:Protección que usan los astronautas.
+p:Dame una explicación breve de traje espacial?r:Protección que usan los astronautas.
+p:Qué características tiene traje espacial?r:Protección que usan los astronautas.
+p:Háblame de traje espacial?r:Protección que usan los astronautas.
+p:Qué sabes de traje espacial?r:Protección que usan los astronautas.
+p:En qué consiste traje espacial?r:Protección que usan los astronautas.

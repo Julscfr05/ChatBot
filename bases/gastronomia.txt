@@ -1,0 +1,500 @@
+p:Qué es pizza?r:Plato originario de Italia hecho con masa, salsa y queso.
+p:Cómo se prepara pizza?r:Plato originario de Italia hecho con masa, salsa y queso.
+p:Cuáles son sus características?r:Plato originario de Italia hecho con masa, salsa y queso.
+p:De dónde es originario pizza?r:Plato originario de Italia hecho con masa, salsa y queso.
+p:Por qué es conocido pizza?r:Plato originario de Italia hecho con masa, salsa y queso.
+p:Cómo se describe pizza?r:Plato originario de Italia hecho con masa, salsa y queso.
+p:Dame una explicación breve de pizza?r:Plato originario de Italia hecho con masa, salsa y queso.
+p:Háblame de pizza?r:Plato originario de Italia hecho con masa, salsa y queso.
+p:Qué información básica tienes sobre pizza?r:Plato originario de Italia hecho con masa, salsa y queso.
+p:Qué sabes de pizza?r:Plato originario de Italia hecho con masa, salsa y queso.
+p:Qué es sushi?r:Plato japonés que suele llevar arroz y pescado.
+p:Cómo se prepara sushi?r:Plato japonés que suele llevar arroz y pescado.
+p:Cuáles son sus características?r:Plato japonés que suele llevar arroz y pescado.
+p:De dónde es originario sushi?r:Plato japonés que suele llevar arroz y pescado.
+p:Por qué es conocido sushi?r:Plato japonés que suele llevar arroz y pescado.
+p:Cómo se describe sushi?r:Plato japonés que suele llevar arroz y pescado.
+p:Dame una explicación breve de sushi?r:Plato japonés que suele llevar arroz y pescado.
+p:Háblame de sushi?r:Plato japonés que suele llevar arroz y pescado.
+p:Qué información básica tienes sobre sushi?r:Plato japonés que suele llevar arroz y pescado.
+p:Qué sabes de sushi?r:Plato japonés que suele llevar arroz y pescado.
+p:Qué es paella?r:Plato tradicional español con arroz.
+p:Cómo se prepara paella?r:Plato tradicional español con arroz.
+p:Cuáles son sus características?r:Plato tradicional español con arroz.
+p:De dónde es originario paella?r:Plato tradicional español con arroz.
+p:Por qué es conocido paella?r:Plato tradicional español con arroz.
+p:Cómo se describe paella?r:Plato tradicional español con arroz.
+p:Dame una explicación breve de paella?r:Plato tradicional español con arroz.
+p:Háblame de paella?r:Plato tradicional español con arroz.
+p:Qué información básica tienes sobre paella?r:Plato tradicional español con arroz.
+p:Qué sabes de paella?r:Plato tradicional español con arroz.
+p:Qué es guacamole?r:Preparación a base de aguacate.
+p:Cómo se prepara guacamole?r:Preparación a base de aguacate.
+p:Cuáles son sus características?r:Preparación a base de aguacate.
+p:De dónde es originario guacamole?r:Preparación a base de aguacate.
+p:Por qué es conocido guacamole?r:Preparación a base de aguacate.
+p:Cómo se describe guacamole?r:Preparación a base de aguacate.
+p:Dame una explicación breve de guacamole?r:Preparación a base de aguacate.
+p:Háblame de guacamole?r:Preparación a base de aguacate.
+p:Qué información básica tienes sobre guacamole?r:Preparación a base de aguacate.
+p:Qué sabes de guacamole?r:Preparación a base de aguacate.
+p:Qué es café?r:Bebida obtenida del grano tostado.
+p:Cómo se prepara café?r:Bebida obtenida del grano tostado.
+p:Cuáles son sus características?r:Bebida obtenida del grano tostado.
+p:De dónde es originario café?r:Bebida obtenida del grano tostado.
+p:Por qué es conocido café?r:Bebida obtenida del grano tostado.
+p:Cómo se describe café?r:Bebida obtenida del grano tostado.
+p:Dame una explicación breve de café?r:Bebida obtenida del grano tostado.
+p:Háblame de café?r:Bebida obtenida del grano tostado.
+p:Qué información básica tienes sobre café?r:Bebida obtenida del grano tostado.
+p:Qué sabes de café?r:Bebida obtenida del grano tostado.
+p:Qué es empanada?r:Masa rellena que puede freírse o hornearse.
+p:Cómo se prepara empanada?r:Masa rellena que puede freírse o hornearse.
+p:Cuáles son sus características?r:Masa rellena que puede freírse o hornearse.
+p:De dónde es originario empanada?r:Masa rellena que puede freírse o hornearse.
+p:Por qué es conocido empanada?r:Masa rellena que puede freírse o hornearse.
+p:Cómo se describe empanada?r:Masa rellena que puede freírse o hornearse.
+p:Dame una explicación breve de empanada?r:Masa rellena que puede freírse o hornearse.
+p:Háblame de empanada?r:Masa rellena que puede freírse o hornearse.
+p:Qué información básica tienes sobre empanada?r:Masa rellena que puede freírse o hornearse.
+p:Qué sabes de empanada?r:Masa rellena que puede freírse o hornearse.
+p:Qué es chocolate?r:Alimento derivado del cacao.
+p:Cómo se prepara chocolate?r:Alimento derivado del cacao.
+p:Cuáles son sus características?r:Alimento derivado del cacao.
+p:De dónde es originario chocolate?r:Alimento derivado del cacao.
+p:Por qué es conocido chocolate?r:Alimento derivado del cacao.
+p:Cómo se describe chocolate?r:Alimento derivado del cacao.
+p:Dame una explicación breve de chocolate?r:Alimento derivado del cacao.
+p:Háblame de chocolate?r:Alimento derivado del cacao.
+p:Qué información básica tienes sobre chocolate?r:Alimento derivado del cacao.
+p:Qué sabes de chocolate?r:Alimento derivado del cacao.
+p:Qué es pan?r:Alimento básico elaborado con harina y agua.
+p:Cómo se prepara pan?r:Alimento básico elaborado con harina y agua.
+p:Cuáles son sus características?r:Alimento básico elaborado con harina y agua.
+p:De dónde es originario pan?r:Alimento básico elaborado con harina y agua.
+p:Por qué es conocido pan?r:Alimento básico elaborado con harina y agua.
+p:Cómo se describe pan?r:Alimento básico elaborado con harina y agua.
+p:Dame una explicación breve de pan?r:Alimento básico elaborado con harina y agua.
+p:Háblame de pan?r:Alimento básico elaborado con harina y agua.
+p:Qué información básica tienes sobre pan?r:Alimento básico elaborado con harina y agua.
+p:Qué sabes de pan?r:Alimento básico elaborado con harina y agua.
+p:Qué es pasta?r:Alimento hecho con harina de trigo y agua.
+p:Cómo se prepara pasta?r:Alimento hecho con harina de trigo y agua.
+p:Cuáles son sus características?r:Alimento hecho con harina de trigo y agua.
+p:De dónde es originario pasta?r:Alimento hecho con harina de trigo y agua.
+p:Por qué es conocido pasta?r:Alimento hecho con harina de trigo y agua.
+p:Cómo se describe pasta?r:Alimento hecho con harina de trigo y agua.
+p:Dame una explicación breve de pasta?r:Alimento hecho con harina de trigo y agua.
+p:Háblame de pasta?r:Alimento hecho con harina de trigo y agua.
+p:Qué información básica tienes sobre pasta?r:Alimento hecho con harina de trigo y agua.
+p:Qué sabes de pasta?r:Alimento hecho con harina de trigo y agua.
+p:Qué es arroz?r:Cereal muy usado como base alimentaria.
+p:Cómo se prepara arroz?r:Cereal muy usado como base alimentaria.
+p:Cuáles son sus características?r:Cereal muy usado como base alimentaria.
+p:De dónde es originario arroz?r:Cereal muy usado como base alimentaria.
+p:Por qué es conocido arroz?r:Cereal muy usado como base alimentaria.
+p:Cómo se describe arroz?r:Cereal muy usado como base alimentaria.
+p:Dame una explicación breve de arroz?r:Cereal muy usado como base alimentaria.
+p:Háblame de arroz?r:Cereal muy usado como base alimentaria.
+p:Qué información básica tienes sobre arroz?r:Cereal muy usado como base alimentaria.
+p:Qué sabes de arroz?r:Cereal muy usado como base alimentaria.
+p:Qué es hamburguesa?r:Preparación de pan con carne u otros ingredientes.
+p:Cómo se prepara hamburguesa?r:Preparación de pan con carne u otros ingredientes.
+p:Cuáles son sus características?r:Preparación de pan con carne u otros ingredientes.
+p:De dónde es originario hamburguesa?r:Preparación de pan con carne u otros ingredientes.
+p:Por qué es conocido hamburguesa?r:Preparación de pan con carne u otros ingredientes.
+p:Cómo se describe hamburguesa?r:Preparación de pan con carne u otros ingredientes.
+p:Dame una explicación breve de hamburguesa?r:Preparación de pan con carne u otros ingredientes.
+p:Háblame de hamburguesa?r:Preparación de pan con carne u otros ingredientes.
+p:Qué información básica tienes sobre hamburguesa?r:Preparación de pan con carne u otros ingredientes.
+p:Qué sabes de hamburguesa?r:Preparación de pan con carne u otros ingredientes.
+p:Qué es ensalada?r:Mezcla de vegetales y otros alimentos.
+p:Cómo se prepara ensalada?r:Mezcla de vegetales y otros alimentos.
+p:Cuáles son sus características?r:Mezcla de vegetales y otros alimentos.
+p:De dónde es originario ensalada?r:Mezcla de vegetales y otros alimentos.
+p:Por qué es conocido ensalada?r:Mezcla de vegetales y otros alimentos.
+p:Cómo se describe ensalada?r:Mezcla de vegetales y otros alimentos.
+p:Dame una explicación breve de ensalada?r:Mezcla de vegetales y otros alimentos.
+p:Háblame de ensalada?r:Mezcla de vegetales y otros alimentos.
+p:Qué información básica tienes sobre ensalada?r:Mezcla de vegetales y otros alimentos.
+p:Qué sabes de ensalada?r:Mezcla de vegetales y otros alimentos.
+p:Qué es sopa?r:Plato líquido o semilíquido.
+p:Cómo se prepara sopa?r:Plato líquido o semilíquido.
+p:Cuáles son sus características?r:Plato líquido o semilíquido.
+p:De dónde es originario sopa?r:Plato líquido o semilíquido.
+p:Por qué es conocido sopa?r:Plato líquido o semilíquido.
+p:Cómo se describe sopa?r:Plato líquido o semilíquido.
+p:Dame una explicación breve de sopa?r:Plato líquido o semilíquido.
+p:Háblame de sopa?r:Plato líquido o semilíquido.
+p:Qué información básica tienes sobre sopa?r:Plato líquido o semilíquido.
+p:Qué sabes de sopa?r:Plato líquido o semilíquido.
+p:Qué es guiso?r:Preparación cocinada lentamente.
+p:Cómo se prepara guiso?r:Preparación cocinada lentamente.
+p:Cuáles son sus características?r:Preparación cocinada lentamente.
+p:De dónde es originario guiso?r:Preparación cocinada lentamente.
+p:Por qué es conocido guiso?r:Preparación cocinada lentamente.
+p:Cómo se describe guiso?r:Preparación cocinada lentamente.
+p:Dame una explicación breve de guiso?r:Preparación cocinada lentamente.
+p:Háblame de guiso?r:Preparación cocinada lentamente.
+p:Qué información básica tienes sobre guiso?r:Preparación cocinada lentamente.
+p:Qué sabes de guiso?r:Preparación cocinada lentamente.
+p:Qué es ceviche?r:Plato de pescado o mariscos marinados.
+p:Cómo se prepara ceviche?r:Plato de pescado o mariscos marinados.
+p:Cuáles son sus características?r:Plato de pescado o mariscos marinados.
+p:De dónde es originario ceviche?r:Plato de pescado o mariscos marinados.
+p:Por qué es conocido ceviche?r:Plato de pescado o mariscos marinados.
+p:Cómo se describe ceviche?r:Plato de pescado o mariscos marinados.
+p:Dame una explicación breve de ceviche?r:Plato de pescado o mariscos marinados.
+p:Háblame de ceviche?r:Plato de pescado o mariscos marinados.
+p:Qué información básica tienes sobre ceviche?r:Plato de pescado o mariscos marinados.
+p:Qué sabes de ceviche?r:Plato de pescado o mariscos marinados.
+p:Qué es taco?r:Comida mexicana servida en tortilla.
+p:Cómo se prepara taco?r:Comida mexicana servida en tortilla.
+p:Cuáles son sus características?r:Comida mexicana servida en tortilla.
+p:De dónde es originario taco?r:Comida mexicana servida en tortilla.
+p:Por qué es conocido taco?r:Comida mexicana servida en tortilla.
+p:Cómo se describe taco?r:Comida mexicana servida en tortilla.
+p:Dame una explicación breve de taco?r:Comida mexicana servida en tortilla.
+p:Háblame de taco?r:Comida mexicana servida en tortilla.
+p:Qué información básica tienes sobre taco?r:Comida mexicana servida en tortilla.
+p:Qué sabes de taco?r:Comida mexicana servida en tortilla.
+p:Qué es arepa?r:Masa de maíz muy típica de Colombia y Venezuela.
+p:Cómo se prepara arepa?r:Masa de maíz muy típica de Colombia y Venezuela.
+p:Cuáles son sus características?r:Masa de maíz muy típica de Colombia y Venezuela.
+p:De dónde es originario arepa?r:Masa de maíz muy típica de Colombia y Venezuela.
+p:Por qué es conocido arepa?r:Masa de maíz muy típica de Colombia y Venezuela.
+p:Cómo se describe arepa?r:Masa de maíz muy típica de Colombia y Venezuela.
+p:Dame una explicación breve de arepa?r:Masa de maíz muy típica de Colombia y Venezuela.
+p:Háblame de arepa?r:Masa de maíz muy típica de Colombia y Venezuela.
+p:Qué información básica tienes sobre arepa?r:Masa de maíz muy típica de Colombia y Venezuela.
+p:Qué sabes de arepa?r:Masa de maíz muy típica de Colombia y Venezuela.
+p:Qué es tamal?r:Masa rellena y envuelta para cocinarse.
+p:Cómo se prepara tamal?r:Masa rellena y envuelta para cocinarse.
+p:Cuáles son sus características?r:Masa rellena y envuelta para cocinarse.
+p:De dónde es originario tamal?r:Masa rellena y envuelta para cocinarse.
+p:Por qué es conocido tamal?r:Masa rellena y envuelta para cocinarse.
+p:Cómo se describe tamal?r:Masa rellena y envuelta para cocinarse.
+p:Dame una explicación breve de tamal?r:Masa rellena y envuelta para cocinarse.
+p:Háblame de tamal?r:Masa rellena y envuelta para cocinarse.
+p:Qué información básica tienes sobre tamal?r:Masa rellena y envuelta para cocinarse.
+p:Qué sabes de tamal?r:Masa rellena y envuelta para cocinarse.
+p:Qué es lasaña?r:Plato de capas de pasta y relleno.
+p:Cómo se prepara lasaña?r:Plato de capas de pasta y relleno.
+p:Cuáles son sus características?r:Plato de capas de pasta y relleno.
+p:De dónde es originario lasaña?r:Plato de capas de pasta y relleno.
+p:Por qué es conocido lasaña?r:Plato de capas de pasta y relleno.
+p:Cómo se describe lasaña?r:Plato de capas de pasta y relleno.
+p:Dame una explicación breve de lasaña?r:Plato de capas de pasta y relleno.
+p:Háblame de lasaña?r:Plato de capas de pasta y relleno.
+p:Qué información básica tienes sobre lasaña?r:Plato de capas de pasta y relleno.
+p:Qué sabes de lasaña?r:Plato de capas de pasta y relleno.
+p:Qué es curry?r:Preparación con mezcla de especias.
+p:Cómo se prepara curry?r:Preparación con mezcla de especias.
+p:Cuáles son sus características?r:Preparación con mezcla de especias.
+p:De dónde es originario curry?r:Preparación con mezcla de especias.
+p:Por qué es conocido curry?r:Preparación con mezcla de especias.
+p:Cómo se describe curry?r:Preparación con mezcla de especias.
+p:Dame una explicación breve de curry?r:Preparación con mezcla de especias.
+p:Háblame de curry?r:Preparación con mezcla de especias.
+p:Qué información básica tienes sobre curry?r:Preparación con mezcla de especias.
+p:Qué sabes de curry?r:Preparación con mezcla de especias.
+p:Qué es ramen?r:Sopa japonesa con fideos.
+p:Cómo se prepara ramen?r:Sopa japonesa con fideos.
+p:Cuáles son sus características?r:Sopa japonesa con fideos.
+p:De dónde es originario ramen?r:Sopa japonesa con fideos.
+p:Por qué es conocido ramen?r:Sopa japonesa con fideos.
+p:Cómo se describe ramen?r:Sopa japonesa con fideos.
+p:Dame una explicación breve de ramen?r:Sopa japonesa con fideos.
+p:Háblame de ramen?r:Sopa japonesa con fideos.
+p:Qué información básica tienes sobre ramen?r:Sopa japonesa con fideos.
+p:Qué sabes de ramen?r:Sopa japonesa con fideos.
+p:Qué es croissant?r:Panecillo francés de masa hojaldrada.
+p:Cómo se prepara croissant?r:Panecillo francés de masa hojaldrada.
+p:Cuáles son sus características?r:Panecillo francés de masa hojaldrada.
+p:De dónde es originario croissant?r:Panecillo francés de masa hojaldrada.
+p:Por qué es conocido croissant?r:Panecillo francés de masa hojaldrada.
+p:Cómo se describe croissant?r:Panecillo francés de masa hojaldrada.
+p:Dame una explicación breve de croissant?r:Panecillo francés de masa hojaldrada.
+p:Háblame de croissant?r:Panecillo francés de masa hojaldrada.
+p:Qué información básica tienes sobre croissant?r:Panecillo francés de masa hojaldrada.
+p:Qué sabes de croissant?r:Panecillo francés de masa hojaldrada.
+p:Qué es crepe?r:Tortita fina de origen francés.
+p:Cómo se prepara crepe?r:Tortita fina de origen francés.
+p:Cuáles son sus características?r:Tortita fina de origen francés.
+p:De dónde es originario crepe?r:Tortita fina de origen francés.
+p:Por qué es conocido crepe?r:Tortita fina de origen francés.
+p:Cómo se describe crepe?r:Tortita fina de origen francés.
+p:Dame una explicación breve de crepe?r:Tortita fina de origen francés.
+p:Háblame de crepe?r:Tortita fina de origen francés.
+p:Qué información básica tienes sobre crepe?r:Tortita fina de origen francés.
+p:Qué sabes de crepe?r:Tortita fina de origen francés.
+p:Qué es omelette?r:Preparación de huevo batido cocinado.
+p:Cómo se prepara omelette?r:Preparación de huevo batido cocinado.
+p:Cuáles son sus características?r:Preparación de huevo batido cocinado.
+p:De dónde es originario omelette?r:Preparación de huevo batido cocinado.
+p:Por qué es conocido omelette?r:Preparación de huevo batido cocinado.
+p:Cómo se describe omelette?r:Preparación de huevo batido cocinado.
+p:Dame una explicación breve de omelette?r:Preparación de huevo batido cocinado.
+p:Háblame de omelette?r:Preparación de huevo batido cocinado.
+p:Qué información básica tienes sobre omelette?r:Preparación de huevo batido cocinado.
+p:Qué sabes de omelette?r:Preparación de huevo batido cocinado.
+p:Qué es mayonesa?r:Salsa emulsionada a base de huevo y aceite.
+p:Cómo se prepara mayonesa?r:Salsa emulsionada a base de huevo y aceite.
+p:Cuáles son sus características?r:Salsa emulsionada a base de huevo y aceite.
+p:De dónde es originario mayonesa?r:Salsa emulsionada a base de huevo y aceite.
+p:Por qué es conocido mayonesa?r:Salsa emulsionada a base de huevo y aceite.
+p:Cómo se describe mayonesa?r:Salsa emulsionada a base de huevo y aceite.
+p:Dame una explicación breve de mayonesa?r:Salsa emulsionada a base de huevo y aceite.
+p:Háblame de mayonesa?r:Salsa emulsionada a base de huevo y aceite.
+p:Qué información básica tienes sobre mayonesa?r:Salsa emulsionada a base de huevo y aceite.
+p:Qué sabes de mayonesa?r:Salsa emulsionada a base de huevo y aceite.
+p:Qué es ketchup?r:Salsa de tomate muy popular.
+p:Cómo se prepara ketchup?r:Salsa de tomate muy popular.
+p:Cuáles son sus características?r:Salsa de tomate muy popular.
+p:De dónde es originario ketchup?r:Salsa de tomate muy popular.
+p:Por qué es conocido ketchup?r:Salsa de tomate muy popular.
+p:Cómo se describe ketchup?r:Salsa de tomate muy popular.
+p:Dame una explicación breve de ketchup?r:Salsa de tomate muy popular.
+p:Háblame de ketchup?r:Salsa de tomate muy popular.
+p:Qué información básica tienes sobre ketchup?r:Salsa de tomate muy popular.
+p:Qué sabes de ketchup?r:Salsa de tomate muy popular.
+p:Qué es aceite de oliva?r:Grasa vegetal obtenida de las aceitunas.
+p:Cómo se prepara aceite de oliva?r:Grasa vegetal obtenida de las aceitunas.
+p:Cuáles son sus características?r:Grasa vegetal obtenida de las aceitunas.
+p:De dónde es originario aceite de oliva?r:Grasa vegetal obtenida de las aceitunas.
+p:Por qué es conocido aceite de oliva?r:Grasa vegetal obtenida de las aceitunas.
+p:Cómo se describe aceite de oliva?r:Grasa vegetal obtenida de las aceitunas.
+p:Dame una explicación breve de aceite de oliva?r:Grasa vegetal obtenida de las aceitunas.
+p:Háblame de aceite de oliva?r:Grasa vegetal obtenida de las aceitunas.
+p:Qué información básica tienes sobre aceite de oliva?r:Grasa vegetal obtenida de las aceitunas.
+p:Qué sabes de aceite de oliva?r:Grasa vegetal obtenida de las aceitunas.
+p:Qué es mantequilla?r:Producto lácteo elaborado a partir de la crema.
+p:Cómo se prepara mantequilla?r:Producto lácteo elaborado a partir de la crema.
+p:Cuáles son sus características?r:Producto lácteo elaborado a partir de la crema.
+p:De dónde es originario mantequilla?r:Producto lácteo elaborado a partir de la crema.
+p:Por qué es conocido mantequilla?r:Producto lácteo elaborado a partir de la crema.
+p:Cómo se describe mantequilla?r:Producto lácteo elaborado a partir de la crema.
+p:Dame una explicación breve de mantequilla?r:Producto lácteo elaborado a partir de la crema.
+p:Háblame de mantequilla?r:Producto lácteo elaborado a partir de la crema.
+p:Qué información básica tienes sobre mantequilla?r:Producto lácteo elaborado a partir de la crema.
+p:Qué sabes de mantequilla?r:Producto lácteo elaborado a partir de la crema.
+p:Qué es yogur?r:Leche fermentada.
+p:Cómo se prepara yogur?r:Leche fermentada.
+p:Cuáles son sus características?r:Leche fermentada.
+p:De dónde es originario yogur?r:Leche fermentada.
+p:Por qué es conocido yogur?r:Leche fermentada.
+p:Cómo se describe yogur?r:Leche fermentada.
+p:Dame una explicación breve de yogur?r:Leche fermentada.
+p:Háblame de yogur?r:Leche fermentada.
+p:Qué información básica tienes sobre yogur?r:Leche fermentada.
+p:Qué sabes de yogur?r:Leche fermentada.
+p:Qué es queso?r:Producto lácteo coagulado.
+p:Cómo se prepara queso?r:Producto lácteo coagulado.
+p:Cuáles son sus características?r:Producto lácteo coagulado.
+p:De dónde es originario queso?r:Producto lácteo coagulado.
+p:Por qué es conocido queso?r:Producto lácteo coagulado.
+p:Cómo se describe queso?r:Producto lácteo coagulado.
+p:Dame una explicación breve de queso?r:Producto lácteo coagulado.
+p:Háblame de queso?r:Producto lácteo coagulado.
+p:Qué información básica tienes sobre queso?r:Producto lácteo coagulado.
+p:Qué sabes de queso?r:Producto lácteo coagulado.
+p:Qué es baguette?r:Pan alargado francés.
+p:Cómo se prepara baguette?r:Pan alargado francés.
+p:Cuáles son sus características?r:Pan alargado francés.
+p:De dónde es originario baguette?r:Pan alargado francés.
+p:Por qué es conocido baguette?r:Pan alargado francés.
+p:Cómo se describe baguette?r:Pan alargado francés.
+p:Dame una explicación breve de baguette?r:Pan alargado francés.
+p:Háblame de baguette?r:Pan alargado francés.
+p:Qué información básica tienes sobre baguette?r:Pan alargado francés.
+p:Qué sabes de baguette?r:Pan alargado francés.
+p:Qué es postre?r:Preparación dulce servida al final.
+p:Cómo se prepara postre?r:Preparación dulce servida al final.
+p:Cuáles son sus características?r:Preparación dulce servida al final.
+p:De dónde es originario postre?r:Preparación dulce servida al final.
+p:Por qué es conocido postre?r:Preparación dulce servida al final.
+p:Cómo se describe postre?r:Preparación dulce servida al final.
+p:Dame una explicación breve de postre?r:Preparación dulce servida al final.
+p:Háblame de postre?r:Preparación dulce servida al final.
+p:Qué información básica tienes sobre postre?r:Preparación dulce servida al final.
+p:Qué sabes de postre?r:Preparación dulce servida al final.
+p:Qué es aperitivo?r:Comida ligera que abre el apetito.
+p:Cómo se prepara aperitivo?r:Comida ligera que abre el apetito.
+p:Cuáles son sus características?r:Comida ligera que abre el apetito.
+p:De dónde es originario aperitivo?r:Comida ligera que abre el apetito.
+p:Por qué es conocido aperitivo?r:Comida ligera que abre el apetito.
+p:Cómo se describe aperitivo?r:Comida ligera que abre el apetito.
+p:Dame una explicación breve de aperitivo?r:Comida ligera que abre el apetito.
+p:Háblame de aperitivo?r:Comida ligera que abre el apetito.
+p:Qué información básica tienes sobre aperitivo?r:Comida ligera que abre el apetito.
+p:Qué sabes de aperitivo?r:Comida ligera que abre el apetito.
+p:Qué es plato fuerte?r:Comida principal de una comida.
+p:Cómo se prepara plato fuerte?r:Comida principal de una comida.
+p:Cuáles son sus características?r:Comida principal de una comida.
+p:De dónde es originario plato fuerte?r:Comida principal de una comida.
+p:Por qué es conocido plato fuerte?r:Comida principal de una comida.
+p:Cómo se describe plato fuerte?r:Comida principal de una comida.
+p:Dame una explicación breve de plato fuerte?r:Comida principal de una comida.
+p:Háblame de plato fuerte?r:Comida principal de una comida.
+p:Qué información básica tienes sobre plato fuerte?r:Comida principal de una comida.
+p:Qué sabes de plato fuerte?r:Comida principal de una comida.
+p:Qué es umami?r:Sabor sabroso presente en varios alimentos.
+p:Cómo se prepara umami?r:Sabor sabroso presente en varios alimentos.
+p:Cuáles son sus características?r:Sabor sabroso presente en varios alimentos.
+p:De dónde es originario umami?r:Sabor sabroso presente en varios alimentos.
+p:Por qué es conocido umami?r:Sabor sabroso presente en varios alimentos.
+p:Cómo se describe umami?r:Sabor sabroso presente en varios alimentos.
+p:Dame una explicación breve de umami?r:Sabor sabroso presente en varios alimentos.
+p:Háblame de umami?r:Sabor sabroso presente en varios alimentos.
+p:Qué información básica tienes sobre umami?r:Sabor sabroso presente en varios alimentos.
+p:Qué sabes de umami?r:Sabor sabroso presente en varios alimentos.
+p:Qué es fritura?r:Técnica de cocinar con aceite caliente.
+p:Cómo se prepara fritura?r:Técnica de cocinar con aceite caliente.
+p:Cuáles son sus características?r:Técnica de cocinar con aceite caliente.
+p:De dónde es originario fritura?r:Técnica de cocinar con aceite caliente.
+p:Por qué es conocido fritura?r:Técnica de cocinar con aceite caliente.
+p:Cómo se describe fritura?r:Técnica de cocinar con aceite caliente.
+p:Dame una explicación breve de fritura?r:Técnica de cocinar con aceite caliente.
+p:Háblame de fritura?r:Técnica de cocinar con aceite caliente.
+p:Qué información básica tienes sobre fritura?r:Técnica de cocinar con aceite caliente.
+p:Qué sabes de fritura?r:Técnica de cocinar con aceite caliente.
+p:Qué es horneado?r:Cocción mediante calor seco en horno.
+p:Cómo se prepara horneado?r:Cocción mediante calor seco en horno.
+p:Cuáles son sus características?r:Cocción mediante calor seco en horno.
+p:De dónde es originario horneado?r:Cocción mediante calor seco en horno.
+p:Por qué es conocido horneado?r:Cocción mediante calor seco en horno.
+p:Cómo se describe horneado?r:Cocción mediante calor seco en horno.
+p:Dame una explicación breve de horneado?r:Cocción mediante calor seco en horno.
+p:Háblame de horneado?r:Cocción mediante calor seco en horno.
+p:Qué información básica tienes sobre horneado?r:Cocción mediante calor seco en horno.
+p:Qué sabes de horneado?r:Cocción mediante calor seco en horno.
+p:Qué es hervido?r:Cocción en agua a alta temperatura.
+p:Cómo se prepara hervido?r:Cocción en agua a alta temperatura.
+p:Cuáles son sus características?r:Cocción en agua a alta temperatura.
+p:De dónde es originario hervido?r:Cocción en agua a alta temperatura.
+p:Por qué es conocido hervido?r:Cocción en agua a alta temperatura.
+p:Cómo se describe hervido?r:Cocción en agua a alta temperatura.
+p:Dame una explicación breve de hervido?r:Cocción en agua a alta temperatura.
+p:Háblame de hervido?r:Cocción en agua a alta temperatura.
+p:Qué información básica tienes sobre hervido?r:Cocción en agua a alta temperatura.
+p:Qué sabes de hervido?r:Cocción en agua a alta temperatura.
+p:Qué es vapor?r:Cocción con vapor de agua.
+p:Cómo se prepara vapor?r:Cocción con vapor de agua.
+p:Cuáles son sus características?r:Cocción con vapor de agua.
+p:De dónde es originario vapor?r:Cocción con vapor de agua.
+p:Por qué es conocido vapor?r:Cocción con vapor de agua.
+p:Cómo se describe vapor?r:Cocción con vapor de agua.
+p:Dame una explicación breve de vapor?r:Cocción con vapor de agua.
+p:Háblame de vapor?r:Cocción con vapor de agua.
+p:Qué información básica tienes sobre vapor?r:Cocción con vapor de agua.
+p:Qué sabes de vapor?r:Cocción con vapor de agua.
+p:Qué es fermentación?r:Proceso que transforma alimentos con microorganismos.
+p:Cómo se prepara fermentación?r:Proceso que transforma alimentos con microorganismos.
+p:Cuáles son sus características?r:Proceso que transforma alimentos con microorganismos.
+p:De dónde es originario fermentación?r:Proceso que transforma alimentos con microorganismos.
+p:Por qué es conocido fermentación?r:Proceso que transforma alimentos con microorganismos.
+p:Cómo se describe fermentación?r:Proceso que transforma alimentos con microorganismos.
+p:Dame una explicación breve de fermentación?r:Proceso que transforma alimentos con microorganismos.
+p:Háblame de fermentación?r:Proceso que transforma alimentos con microorganismos.
+p:Qué información básica tienes sobre fermentación?r:Proceso que transforma alimentos con microorganismos.
+p:Qué sabes de fermentación?r:Proceso que transforma alimentos con microorganismos.
+p:Qué es especia?r:Ingrediente aromático usado para sazonar.
+p:Cómo se prepara especia?r:Ingrediente aromático usado para sazonar.
+p:Cuáles son sus características?r:Ingrediente aromático usado para sazonar.
+p:De dónde es originario especia?r:Ingrediente aromático usado para sazonar.
+p:Por qué es conocido especia?r:Ingrediente aromático usado para sazonar.
+p:Cómo se describe especia?r:Ingrediente aromático usado para sazonar.
+p:Dame una explicación breve de especia?r:Ingrediente aromático usado para sazonar.
+p:Háblame de especia?r:Ingrediente aromático usado para sazonar.
+p:Qué información básica tienes sobre especia?r:Ingrediente aromático usado para sazonar.
+p:Qué sabes de especia?r:Ingrediente aromático usado para sazonar.
+p:Qué es hierba aromática?r:Planta usada para dar aroma y sabor.
+p:Cómo se prepara hierba aromática?r:Planta usada para dar aroma y sabor.
+p:Cuáles son sus características?r:Planta usada para dar aroma y sabor.
+p:De dónde es originario hierba aromática?r:Planta usada para dar aroma y sabor.
+p:Por qué es conocido hierba aromática?r:Planta usada para dar aroma y sabor.
+p:Cómo se describe hierba aromática?r:Planta usada para dar aroma y sabor.
+p:Dame una explicación breve de hierba aromática?r:Planta usada para dar aroma y sabor.
+p:Háblame de hierba aromática?r:Planta usada para dar aroma y sabor.
+p:Qué información básica tienes sobre hierba aromática?r:Planta usada para dar aroma y sabor.
+p:Qué sabes de hierba aromática?r:Planta usada para dar aroma y sabor.
+p:Qué es vegano?r:Alimento o dieta sin productos de origen animal.
+p:Cómo se prepara vegano?r:Alimento o dieta sin productos de origen animal.
+p:Cuáles son sus características?r:Alimento o dieta sin productos de origen animal.
+p:De dónde es originario vegano?r:Alimento o dieta sin productos de origen animal.
+p:Por qué es conocido vegano?r:Alimento o dieta sin productos de origen animal.
+p:Cómo se describe vegano?r:Alimento o dieta sin productos de origen animal.
+p:Dame una explicación breve de vegano?r:Alimento o dieta sin productos de origen animal.
+p:Háblame de vegano?r:Alimento o dieta sin productos de origen animal.
+p:Qué información básica tienes sobre vegano?r:Alimento o dieta sin productos de origen animal.
+p:Qué sabes de vegano?r:Alimento o dieta sin productos de origen animal.
+p:Qué es vegetariano?r:Dieta que excluye la carne.
+p:Cómo se prepara vegetariano?r:Dieta que excluye la carne.
+p:Cuáles son sus características?r:Dieta que excluye la carne.
+p:De dónde es originario vegetariano?r:Dieta que excluye la carne.
+p:Por qué es conocido vegetariano?r:Dieta que excluye la carne.
+p:Cómo se describe vegetariano?r:Dieta que excluye la carne.
+p:Dame una explicación breve de vegetariano?r:Dieta que excluye la carne.
+p:Háblame de vegetariano?r:Dieta que excluye la carne.
+p:Qué información básica tienes sobre vegetariano?r:Dieta que excluye la carne.
+p:Qué sabes de vegetariano?r:Dieta que excluye la carne.
+p:Qué es gluten?r:Proteína presente en trigo y otros cereales.
+p:Cómo se prepara gluten?r:Proteína presente en trigo y otros cereales.
+p:Cuáles son sus características?r:Proteína presente en trigo y otros cereales.
+p:De dónde es originario gluten?r:Proteína presente en trigo y otros cereales.
+p:Por qué es conocido gluten?r:Proteína presente en trigo y otros cereales.
+p:Cómo se describe gluten?r:Proteína presente en trigo y otros cereales.
+p:Dame una explicación breve de gluten?r:Proteína presente en trigo y otros cereales.
+p:Háblame de gluten?r:Proteína presente en trigo y otros cereales.
+p:Qué información básica tienes sobre gluten?r:Proteína presente en trigo y otros cereales.
+p:Qué sabes de gluten?r:Proteína presente en trigo y otros cereales.
+p:Qué es lactosa?r:Azúcar natural de la leche.
+p:Cómo se prepara lactosa?r:Azúcar natural de la leche.
+p:Cuáles son sus características?r:Azúcar natural de la leche.
+p:De dónde es originario lactosa?r:Azúcar natural de la leche.
+p:Por qué es conocido lactosa?r:Azúcar natural de la leche.
+p:Cómo se describe lactosa?r:Azúcar natural de la leche.
+p:Dame una explicación breve de lactosa?r:Azúcar natural de la leche.
+p:Háblame de lactosa?r:Azúcar natural de la leche.
+p:Qué información básica tienes sobre lactosa?r:Azúcar natural de la leche.
+p:Qué sabes de lactosa?r:Azúcar natural de la leche.
+p:Qué es mocktail?r:Bebida sin alcohol mezclada y saborizada.
+p:Cómo se prepara mocktail?r:Bebida sin alcohol mezclada y saborizada.
+p:Cuáles son sus características?r:Bebida sin alcohol mezclada y saborizada.
+p:De dónde es originario mocktail?r:Bebida sin alcohol mezclada y saborizada.
+p:Por qué es conocido mocktail?r:Bebida sin alcohol mezclada y saborizada.
+p:Cómo se describe mocktail?r:Bebida sin alcohol mezclada y saborizada.
+p:Dame una explicación breve de mocktail?r:Bebida sin alcohol mezclada y saborizada.
+p:Háblame de mocktail?r:Bebida sin alcohol mezclada y saborizada.
+p:Qué información básica tienes sobre mocktail?r:Bebida sin alcohol mezclada y saborizada.
+p:Qué sabes de mocktail?r:Bebida sin alcohol mezclada y saborizada.
+p:Qué es agua?r:Bebida esencial para la vida.
+p:Cómo se prepara agua?r:Bebida esencial para la vida.
+p:Cuáles son sus características?r:Bebida esencial para la vida.
+p:De dónde es originario agua?r:Bebida esencial para la vida.
+p:Por qué es conocido agua?r:Bebida esencial para la vida.
+p:Cómo se describe agua?r:Bebida esencial para la vida.
+p:Dame una explicación breve de agua?r:Bebida esencial para la vida.
+p:Háblame de agua?r:Bebida esencial para la vida.
+p:Qué información básica tienes sobre agua?r:Bebida esencial para la vida.
+p:Qué sabes de agua?r:Bebida esencial para la vida.
+p:Qué es sal?r:Condimento mineral que realza sabores.
+p:Cómo se prepara sal?r:Condimento mineral que realza sabores.
+p:Cuáles son sus características?r:Condimento mineral que realza sabores.
+p:De dónde es originario sal?r:Condimento mineral que realza sabores.
+p:Por qué es conocido sal?r:Condimento mineral que realza sabores.
+p:Cómo se describe sal?r:Condimento mineral que realza sabores.
+p:Dame una explicación breve de sal?r:Condimento mineral que realza sabores.
+p:Háblame de sal?r:Condimento mineral que realza sabores.
+p:Qué información básica tienes sobre sal?r:Condimento mineral que realza sabores.
+p:Qué sabes de sal?r:Condimento mineral que realza sabores.
+p:Qué es azúcar?r:Ingrediente dulce usado en repostería.
+p:Cómo se prepara azúcar?r:Ingrediente dulce usado en repostería.
+p:Cuáles son sus características?r:Ingrediente dulce usado en repostería.
+p:De dónde es originario azúcar?r:Ingrediente dulce usado en repostería.
+p:Por qué es conocido azúcar?r:Ingrediente dulce usado en repostería.
+p:Cómo se describe azúcar?r:Ingrediente dulce usado en repostería.
+p:Dame una explicación breve de azúcar?r:Ingrediente dulce usado en repostería.
+p:Háblame de azúcar?r:Ingrediente dulce usado en repostería.
+p:Qué información básica tienes sobre azúcar?r:Ingrediente dulce usado en repostería.
+p:Qué sabes de azúcar?r:Ingrediente dulce usado en repostería.
