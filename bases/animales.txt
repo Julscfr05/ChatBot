@@ -1,0 +1,500 @@
+p:Qué es guepardo?r:Mamífero terrestre más rápido.
+p:Cómo es guepardo?r:Mamífero terrestre más rápido.
+p:Cuál es una característica de guepardo?r:Mamífero terrestre más rápido.
+p:Por qué se destaca guepardo?r:Mamífero terrestre más rápido.
+p:Por qué es conocido guepardo?r:Mamífero terrestre más rápido.
+p:Cómo se describe guepardo?r:Mamífero terrestre más rápido.
+p:Dame una descripción breve de guepardo?r:Mamífero terrestre más rápido.
+p:Háblame de guepardo?r:Mamífero terrestre más rápido.
+p:Qué información básica tienes sobre guepardo?r:Mamífero terrestre más rápido.
+p:Qué sabes de guepardo?r:Mamífero terrestre más rápido.
+p:Qué es ballena azul?r:El animal más grande conocido.
+p:Cómo es ballena azul?r:El animal más grande conocido.
+p:Cuál es una característica de ballena azul?r:El animal más grande conocido.
+p:Por qué se destaca ballena azul?r:El animal más grande conocido.
+p:Por qué es conocido ballena azul?r:El animal más grande conocido.
+p:Cómo se describe ballena azul?r:El animal más grande conocido.
+p:Dame una descripción breve de ballena azul?r:El animal más grande conocido.
+p:Háblame de ballena azul?r:El animal más grande conocido.
+p:Qué información básica tienes sobre ballena azul?r:El animal más grande conocido.
+p:Qué sabes de ballena azul?r:El animal más grande conocido.
+p:Qué es pulpo?r:Molusco marino con tres corazones.
+p:Cómo es pulpo?r:Molusco marino con tres corazones.
+p:Cuál es una característica de pulpo?r:Molusco marino con tres corazones.
+p:Por qué se destaca pulpo?r:Molusco marino con tres corazones.
+p:Por qué es conocido pulpo?r:Molusco marino con tres corazones.
+p:Cómo se describe pulpo?r:Molusco marino con tres corazones.
+p:Dame una descripción breve de pulpo?r:Molusco marino con tres corazones.
+p:Háblame de pulpo?r:Molusco marino con tres corazones.
+p:Qué información básica tienes sobre pulpo?r:Molusco marino con tres corazones.
+p:Qué sabes de pulpo?r:Molusco marino con tres corazones.
+p:Qué es avestruz?r:El ave más grande y una excelente corredora.
+p:Cómo es avestruz?r:El ave más grande y una excelente corredora.
+p:Cuál es una característica de avestruz?r:El ave más grande y una excelente corredora.
+p:Por qué se destaca avestruz?r:El ave más grande y una excelente corredora.
+p:Por qué es conocido avestruz?r:El ave más grande y una excelente corredora.
+p:Cómo se describe avestruz?r:El ave más grande y una excelente corredora.
+p:Dame una descripción breve de avestruz?r:El ave más grande y una excelente corredora.
+p:Háblame de avestruz?r:El ave más grande y una excelente corredora.
+p:Qué información básica tienes sobre avestruz?r:El ave más grande y una excelente corredora.
+p:Qué sabes de avestruz?r:El ave más grande y una excelente corredora.
+p:Qué es camaleón?r:Reptil famoso por cambiar de color.
+p:Cómo es camaleón?r:Reptil famoso por cambiar de color.
+p:Cuál es una característica de camaleón?r:Reptil famoso por cambiar de color.
+p:Por qué se destaca camaleón?r:Reptil famoso por cambiar de color.
+p:Por qué es conocido camaleón?r:Reptil famoso por cambiar de color.
+p:Cómo se describe camaleón?r:Reptil famoso por cambiar de color.
+p:Dame una descripción breve de camaleón?r:Reptil famoso por cambiar de color.
+p:Háblame de camaleón?r:Reptil famoso por cambiar de color.
+p:Qué información básica tienes sobre camaleón?r:Reptil famoso por cambiar de color.
+p:Qué sabes de camaleón?r:Reptil famoso por cambiar de color.
+p:Qué es león?r:Felino conocido como rey de la selva.
+p:Cómo es león?r:Felino conocido como rey de la selva.
+p:Cuál es una característica de león?r:Felino conocido como rey de la selva.
+p:Por qué se destaca león?r:Felino conocido como rey de la selva.
+p:Por qué es conocido león?r:Felino conocido como rey de la selva.
+p:Cómo se describe león?r:Felino conocido como rey de la selva.
+p:Dame una descripción breve de león?r:Felino conocido como rey de la selva.
+p:Háblame de león?r:Felino conocido como rey de la selva.
+p:Qué información básica tienes sobre león?r:Felino conocido como rey de la selva.
+p:Qué sabes de león?r:Felino conocido como rey de la selva.
+p:Qué es abeja?r:Insecto que produce miel y poliniza flores.
+p:Cómo es abeja?r:Insecto que produce miel y poliniza flores.
+p:Cuál es una característica de abeja?r:Insecto que produce miel y poliniza flores.
+p:Por qué se destaca abeja?r:Insecto que produce miel y poliniza flores.
+p:Por qué es conocido abeja?r:Insecto que produce miel y poliniza flores.
+p:Cómo se describe abeja?r:Insecto que produce miel y poliniza flores.
+p:Dame una descripción breve de abeja?r:Insecto que produce miel y poliniza flores.
+p:Háblame de abeja?r:Insecto que produce miel y poliniza flores.
+p:Qué información básica tienes sobre abeja?r:Insecto que produce miel y poliniza flores.
+p:Qué sabes de abeja?r:Insecto que produce miel y poliniza flores.
+p:Qué es jirafa?r:Mamífero con el cuello más largo.
+p:Cómo es jirafa?r:Mamífero con el cuello más largo.
+p:Cuál es una característica de jirafa?r:Mamífero con el cuello más largo.
+p:Por qué se destaca jirafa?r:Mamífero con el cuello más largo.
+p:Por qué es conocido jirafa?r:Mamífero con el cuello más largo.
+p:Cómo se describe jirafa?r:Mamífero con el cuello más largo.
+p:Dame una descripción breve de jirafa?r:Mamífero con el cuello más largo.
+p:Háblame de jirafa?r:Mamífero con el cuello más largo.
+p:Qué información básica tienes sobre jirafa?r:Mamífero con el cuello más largo.
+p:Qué sabes de jirafa?r:Mamífero con el cuello más largo.
+p:Qué es oso polar?r:Mamífero adaptado al Ártico.
+p:Cómo es oso polar?r:Mamífero adaptado al Ártico.
+p:Cuál es una característica de oso polar?r:Mamífero adaptado al Ártico.
+p:Por qué se destaca oso polar?r:Mamífero adaptado al Ártico.
+p:Por qué es conocido oso polar?r:Mamífero adaptado al Ártico.
+p:Cómo se describe oso polar?r:Mamífero adaptado al Ártico.
+p:Dame una descripción breve de oso polar?r:Mamífero adaptado al Ártico.
+p:Háblame de oso polar?r:Mamífero adaptado al Ártico.
+p:Qué información básica tienes sobre oso polar?r:Mamífero adaptado al Ártico.
+p:Qué sabes de oso polar?r:Mamífero adaptado al Ártico.
+p:Qué es delfín?r:Mamífero marino muy inteligente.
+p:Cómo es delfín?r:Mamífero marino muy inteligente.
+p:Cuál es una característica de delfín?r:Mamífero marino muy inteligente.
+p:Por qué se destaca delfín?r:Mamífero marino muy inteligente.
+p:Por qué es conocido delfín?r:Mamífero marino muy inteligente.
+p:Cómo se describe delfín?r:Mamífero marino muy inteligente.
+p:Dame una descripción breve de delfín?r:Mamífero marino muy inteligente.
+p:Háblame de delfín?r:Mamífero marino muy inteligente.
+p:Qué información básica tienes sobre delfín?r:Mamífero marino muy inteligente.
+p:Qué sabes de delfín?r:Mamífero marino muy inteligente.
+p:Qué es cebra?r:Mamífero con rayas blancas y negras.
+p:Cómo es cebra?r:Mamífero con rayas blancas y negras.
+p:Cuál es una característica de cebra?r:Mamífero con rayas blancas y negras.
+p:Por qué se destaca cebra?r:Mamífero con rayas blancas y negras.
+p:Por qué es conocido cebra?r:Mamífero con rayas blancas y negras.
+p:Cómo se describe cebra?r:Mamífero con rayas blancas y negras.
+p:Dame una descripción breve de cebra?r:Mamífero con rayas blancas y negras.
+p:Háblame de cebra?r:Mamífero con rayas blancas y negras.
+p:Qué información básica tienes sobre cebra?r:Mamífero con rayas blancas y negras.
+p:Qué sabes de cebra?r:Mamífero con rayas blancas y negras.
+p:Qué es perro?r:Animal doméstico conocido por su lealtad.
+p:Cómo es perro?r:Animal doméstico conocido por su lealtad.
+p:Cuál es una característica de perro?r:Animal doméstico conocido por su lealtad.
+p:Por qué se destaca perro?r:Animal doméstico conocido por su lealtad.
+p:Por qué es conocido perro?r:Animal doméstico conocido por su lealtad.
+p:Cómo se describe perro?r:Animal doméstico conocido por su lealtad.
+p:Dame una descripción breve de perro?r:Animal doméstico conocido por su lealtad.
+p:Háblame de perro?r:Animal doméstico conocido por su lealtad.
+p:Qué información básica tienes sobre perro?r:Animal doméstico conocido por su lealtad.
+p:Qué sabes de perro?r:Animal doméstico conocido por su lealtad.
+p:Qué es gato?r:Felino doméstico ágil y curioso.
+p:Cómo es gato?r:Felino doméstico ágil y curioso.
+p:Cuál es una característica de gato?r:Felino doméstico ágil y curioso.
+p:Por qué se destaca gato?r:Felino doméstico ágil y curioso.
+p:Por qué es conocido gato?r:Felino doméstico ágil y curioso.
+p:Cómo se describe gato?r:Felino doméstico ágil y curioso.
+p:Dame una descripción breve de gato?r:Felino doméstico ágil y curioso.
+p:Háblame de gato?r:Felino doméstico ágil y curioso.
+p:Qué información básica tienes sobre gato?r:Felino doméstico ágil y curioso.
+p:Qué sabes de gato?r:Felino doméstico ágil y curioso.
+p:Qué es elefante?r:Mamífero de gran tamaño y trompa larga.
+p:Cómo es elefante?r:Mamífero de gran tamaño y trompa larga.
+p:Cuál es una característica de elefante?r:Mamífero de gran tamaño y trompa larga.
+p:Por qué se destaca elefante?r:Mamífero de gran tamaño y trompa larga.
+p:Por qué es conocido elefante?r:Mamífero de gran tamaño y trompa larga.
+p:Cómo se describe elefante?r:Mamífero de gran tamaño y trompa larga.
+p:Dame una descripción breve de elefante?r:Mamífero de gran tamaño y trompa larga.
+p:Háblame de elefante?r:Mamífero de gran tamaño y trompa larga.
+p:Qué información básica tienes sobre elefante?r:Mamífero de gran tamaño y trompa larga.
+p:Qué sabes de elefante?r:Mamífero de gran tamaño y trompa larga.
+p:Qué es tortuga?r:Reptil con caparazón y gran longevidad.
+p:Cómo es tortuga?r:Reptil con caparazón y gran longevidad.
+p:Cuál es una característica de tortuga?r:Reptil con caparazón y gran longevidad.
+p:Por qué se destaca tortuga?r:Reptil con caparazón y gran longevidad.
+p:Por qué es conocido tortuga?r:Reptil con caparazón y gran longevidad.
+p:Cómo se describe tortuga?r:Reptil con caparazón y gran longevidad.
+p:Dame una descripción breve de tortuga?r:Reptil con caparazón y gran longevidad.
+p:Háblame de tortuga?r:Reptil con caparazón y gran longevidad.
+p:Qué información básica tienes sobre tortuga?r:Reptil con caparazón y gran longevidad.
+p:Qué sabes de tortuga?r:Reptil con caparazón y gran longevidad.
+p:Qué es pingüino?r:Ave que no vuela y nada muy bien.
+p:Cómo es pingüino?r:Ave que no vuela y nada muy bien.
+p:Cuál es una característica de pingüino?r:Ave que no vuela y nada muy bien.
+p:Por qué se destaca pingüino?r:Ave que no vuela y nada muy bien.
+p:Por qué es conocido pingüino?r:Ave que no vuela y nada muy bien.
+p:Cómo se describe pingüino?r:Ave que no vuela y nada muy bien.
+p:Dame una descripción breve de pingüino?r:Ave que no vuela y nada muy bien.
+p:Háblame de pingüino?r:Ave que no vuela y nada muy bien.
+p:Qué información básica tienes sobre pingüino?r:Ave que no vuela y nada muy bien.
+p:Qué sabes de pingüino?r:Ave que no vuela y nada muy bien.
+p:Qué es colibrí?r:Ave pequeña capaz de quedarse suspendida.
+p:Cómo es colibrí?r:Ave pequeña capaz de quedarse suspendida.
+p:Cuál es una característica de colibrí?r:Ave pequeña capaz de quedarse suspendida.
+p:Por qué se destaca colibrí?r:Ave pequeña capaz de quedarse suspendida.
+p:Por qué es conocido colibrí?r:Ave pequeña capaz de quedarse suspendida.
+p:Cómo se describe colibrí?r:Ave pequeña capaz de quedarse suspendida.
+p:Dame una descripción breve de colibrí?r:Ave pequeña capaz de quedarse suspendida.
+p:Háblame de colibrí?r:Ave pequeña capaz de quedarse suspendida.
+p:Qué información básica tienes sobre colibrí?r:Ave pequeña capaz de quedarse suspendida.
+p:Qué sabes de colibrí?r:Ave pequeña capaz de quedarse suspendida.
+p:Qué es águila?r:Ave rapaz de excelente visión.
+p:Cómo es águila?r:Ave rapaz de excelente visión.
+p:Cuál es una característica de águila?r:Ave rapaz de excelente visión.
+p:Por qué se destaca águila?r:Ave rapaz de excelente visión.
+p:Por qué es conocido águila?r:Ave rapaz de excelente visión.
+p:Cómo se describe águila?r:Ave rapaz de excelente visión.
+p:Dame una descripción breve de águila?r:Ave rapaz de excelente visión.
+p:Háblame de águila?r:Ave rapaz de excelente visión.
+p:Qué información básica tienes sobre águila?r:Ave rapaz de excelente visión.
+p:Qué sabes de águila?r:Ave rapaz de excelente visión.
+p:Qué es búho?r:Ave nocturna de vuelo silencioso.
+p:Cómo es búho?r:Ave nocturna de vuelo silencioso.
+p:Cuál es una característica de búho?r:Ave nocturna de vuelo silencioso.
+p:Por qué se destaca búho?r:Ave nocturna de vuelo silencioso.
+p:Por qué es conocido búho?r:Ave nocturna de vuelo silencioso.
+p:Cómo se describe búho?r:Ave nocturna de vuelo silencioso.
+p:Dame una descripción breve de búho?r:Ave nocturna de vuelo silencioso.
+p:Háblame de búho?r:Ave nocturna de vuelo silencioso.
+p:Qué información básica tienes sobre búho?r:Ave nocturna de vuelo silencioso.
+p:Qué sabes de búho?r:Ave nocturna de vuelo silencioso.
+p:Qué es murciélago?r:El único mamífero que vuela activamente.
+p:Cómo es murciélago?r:El único mamífero que vuela activamente.
+p:Cuál es una característica de murciélago?r:El único mamífero que vuela activamente.
+p:Por qué se destaca murciélago?r:El único mamífero que vuela activamente.
+p:Por qué es conocido murciélago?r:El único mamífero que vuela activamente.
+p:Cómo se describe murciélago?r:El único mamífero que vuela activamente.
+p:Dame una descripción breve de murciélago?r:El único mamífero que vuela activamente.
+p:Háblame de murciélago?r:El único mamífero que vuela activamente.
+p:Qué información básica tienes sobre murciélago?r:El único mamífero que vuela activamente.
+p:Qué sabes de murciélago?r:El único mamífero que vuela activamente.
+p:Qué es hormiga?r:Insecto social que vive en colonias.
+p:Cómo es hormiga?r:Insecto social que vive en colonias.
+p:Cuál es una característica de hormiga?r:Insecto social que vive en colonias.
+p:Por qué se destaca hormiga?r:Insecto social que vive en colonias.
+p:Por qué es conocido hormiga?r:Insecto social que vive en colonias.
+p:Cómo se describe hormiga?r:Insecto social que vive en colonias.
+p:Dame una descripción breve de hormiga?r:Insecto social que vive en colonias.
+p:Háblame de hormiga?r:Insecto social que vive en colonias.
+p:Qué información básica tienes sobre hormiga?r:Insecto social que vive en colonias.
+p:Qué sabes de hormiga?r:Insecto social que vive en colonias.
+p:Qué es mariposa?r:Insecto que pasa por metamorfosis.
+p:Cómo es mariposa?r:Insecto que pasa por metamorfosis.
+p:Cuál es una característica de mariposa?r:Insecto que pasa por metamorfosis.
+p:Por qué se destaca mariposa?r:Insecto que pasa por metamorfosis.
+p:Por qué es conocido mariposa?r:Insecto que pasa por metamorfosis.
+p:Cómo se describe mariposa?r:Insecto que pasa por metamorfosis.
+p:Dame una descripción breve de mariposa?r:Insecto que pasa por metamorfosis.
+p:Háblame de mariposa?r:Insecto que pasa por metamorfosis.
+p:Qué información básica tienes sobre mariposa?r:Insecto que pasa por metamorfosis.
+p:Qué sabes de mariposa?r:Insecto que pasa por metamorfosis.
+p:Qué es rana?r:Anfibio que vive entre agua y tierra.
+p:Cómo es rana?r:Anfibio que vive entre agua y tierra.
+p:Cuál es una característica de rana?r:Anfibio que vive entre agua y tierra.
+p:Por qué se destaca rana?r:Anfibio que vive entre agua y tierra.
+p:Por qué es conocido rana?r:Anfibio que vive entre agua y tierra.
+p:Cómo se describe rana?r:Anfibio que vive entre agua y tierra.
+p:Dame una descripción breve de rana?r:Anfibio que vive entre agua y tierra.
+p:Háblame de rana?r:Anfibio que vive entre agua y tierra.
+p:Qué información básica tienes sobre rana?r:Anfibio que vive entre agua y tierra.
+p:Qué sabes de rana?r:Anfibio que vive entre agua y tierra.
+p:Qué es tiburón?r:Pez cartilaginoso con gran sentido del olfato.
+p:Cómo es tiburón?r:Pez cartilaginoso con gran sentido del olfato.
+p:Cuál es una característica de tiburón?r:Pez cartilaginoso con gran sentido del olfato.
+p:Por qué se destaca tiburón?r:Pez cartilaginoso con gran sentido del olfato.
+p:Por qué es conocido tiburón?r:Pez cartilaginoso con gran sentido del olfato.
+p:Cómo se describe tiburón?r:Pez cartilaginoso con gran sentido del olfato.
+p:Dame una descripción breve de tiburón?r:Pez cartilaginoso con gran sentido del olfato.
+p:Háblame de tiburón?r:Pez cartilaginoso con gran sentido del olfato.
+p:Qué información básica tienes sobre tiburón?r:Pez cartilaginoso con gran sentido del olfato.
+p:Qué sabes de tiburón?r:Pez cartilaginoso con gran sentido del olfato.
+p:Qué es salmón?r:Pez migratorio que remonta ríos.
+p:Cómo es salmón?r:Pez migratorio que remonta ríos.
+p:Cuál es una característica de salmón?r:Pez migratorio que remonta ríos.
+p:Por qué se destaca salmón?r:Pez migratorio que remonta ríos.
+p:Por qué es conocido salmón?r:Pez migratorio que remonta ríos.
+p:Cómo se describe salmón?r:Pez migratorio que remonta ríos.
+p:Dame una descripción breve de salmón?r:Pez migratorio que remonta ríos.
+p:Háblame de salmón?r:Pez migratorio que remonta ríos.
+p:Qué información básica tienes sobre salmón?r:Pez migratorio que remonta ríos.
+p:Qué sabes de salmón?r:Pez migratorio que remonta ríos.
+p:Qué es caballito de mar?r:Pez en el que el macho incuba crías.
+p:Cómo es caballito de mar?r:Pez en el que el macho incuba crías.
+p:Cuál es una característica de caballito de mar?r:Pez en el que el macho incuba crías.
+p:Por qué se destaca caballito de mar?r:Pez en el que el macho incuba crías.
+p:Por qué es conocido caballito de mar?r:Pez en el que el macho incuba crías.
+p:Cómo se describe caballito de mar?r:Pez en el que el macho incuba crías.
+p:Dame una descripción breve de caballito de mar?r:Pez en el que el macho incuba crías.
+p:Háblame de caballito de mar?r:Pez en el que el macho incuba crías.
+p:Qué información básica tienes sobre caballito de mar?r:Pez en el que el macho incuba crías.
+p:Qué sabes de caballito de mar?r:Pez en el que el macho incuba crías.
+p:Qué es koala?r:Marsupial que se alimenta de eucalipto.
+p:Cómo es koala?r:Marsupial que se alimenta de eucalipto.
+p:Cuál es una característica de koala?r:Marsupial que se alimenta de eucalipto.
+p:Por qué se destaca koala?r:Marsupial que se alimenta de eucalipto.
+p:Por qué es conocido koala?r:Marsupial que se alimenta de eucalipto.
+p:Cómo se describe koala?r:Marsupial que se alimenta de eucalipto.
+p:Dame una descripción breve de koala?r:Marsupial que se alimenta de eucalipto.
+p:Háblame de koala?r:Marsupial que se alimenta de eucalipto.
+p:Qué información básica tienes sobre koala?r:Marsupial que se alimenta de eucalipto.
+p:Qué sabes de koala?r:Marsupial que se alimenta de eucalipto.
+p:Qué es canguro?r:Marsupial australiano con bolsa.
+p:Cómo es canguro?r:Marsupial australiano con bolsa.
+p:Cuál es una característica de canguro?r:Marsupial australiano con bolsa.
+p:Por qué se destaca canguro?r:Marsupial australiano con bolsa.
+p:Por qué es conocido canguro?r:Marsupial australiano con bolsa.
+p:Cómo se describe canguro?r:Marsupial australiano con bolsa.
+p:Dame una descripción breve de canguro?r:Marsupial australiano con bolsa.
+p:Háblame de canguro?r:Marsupial australiano con bolsa.
+p:Qué información básica tienes sobre canguro?r:Marsupial australiano con bolsa.
+p:Qué sabes de canguro?r:Marsupial australiano con bolsa.
+p:Qué es panda?r:Oso que come principalmente bambú.
+p:Cómo es panda?r:Oso que come principalmente bambú.
+p:Cuál es una característica de panda?r:Oso que come principalmente bambú.
+p:Por qué se destaca panda?r:Oso que come principalmente bambú.
+p:Por qué es conocido panda?r:Oso que come principalmente bambú.
+p:Cómo se describe panda?r:Oso que come principalmente bambú.
+p:Dame una descripción breve de panda?r:Oso que come principalmente bambú.
+p:Háblame de panda?r:Oso que come principalmente bambú.
+p:Qué información básica tienes sobre panda?r:Oso que come principalmente bambú.
+p:Qué sabes de panda?r:Oso que come principalmente bambú.
+p:Qué es rinoceronte?r:Mamífero con uno o dos cuernos.
+p:Cómo es rinoceronte?r:Mamífero con uno o dos cuernos.
+p:Cuál es una característica de rinoceronte?r:Mamífero con uno o dos cuernos.
+p:Por qué se destaca rinoceronte?r:Mamífero con uno o dos cuernos.
+p:Por qué es conocido rinoceronte?r:Mamífero con uno o dos cuernos.
+p:Cómo se describe rinoceronte?r:Mamífero con uno o dos cuernos.
+p:Dame una descripción breve de rinoceronte?r:Mamífero con uno o dos cuernos.
+p:Háblame de rinoceronte?r:Mamífero con uno o dos cuernos.
+p:Qué información básica tienes sobre rinoceronte?r:Mamífero con uno o dos cuernos.
+p:Qué sabes de rinoceronte?r:Mamífero con uno o dos cuernos.
+p:Qué es hipopótamo?r:Mamífero semiaquático de gran peso.
+p:Cómo es hipopótamo?r:Mamífero semiaquático de gran peso.
+p:Cuál es una característica de hipopótamo?r:Mamífero semiaquático de gran peso.
+p:Por qué se destaca hipopótamo?r:Mamífero semiaquático de gran peso.
+p:Por qué es conocido hipopótamo?r:Mamífero semiaquático de gran peso.
+p:Cómo se describe hipopótamo?r:Mamífero semiaquático de gran peso.
+p:Dame una descripción breve de hipopótamo?r:Mamífero semiaquático de gran peso.
+p:Háblame de hipopótamo?r:Mamífero semiaquático de gran peso.
+p:Qué información básica tienes sobre hipopótamo?r:Mamífero semiaquático de gran peso.
+p:Qué sabes de hipopótamo?r:Mamífero semiaquático de gran peso.
+p:Qué es cocodrilo?r:Reptil de mandíbula muy fuerte.
+p:Cómo es cocodrilo?r:Reptil de mandíbula muy fuerte.
+p:Cuál es una característica de cocodrilo?r:Reptil de mandíbula muy fuerte.
+p:Por qué se destaca cocodrilo?r:Reptil de mandíbula muy fuerte.
+p:Por qué es conocido cocodrilo?r:Reptil de mandíbula muy fuerte.
+p:Cómo se describe cocodrilo?r:Reptil de mandíbula muy fuerte.
+p:Dame una descripción breve de cocodrilo?r:Reptil de mandíbula muy fuerte.
+p:Háblame de cocodrilo?r:Reptil de mandíbula muy fuerte.
+p:Qué información básica tienes sobre cocodrilo?r:Reptil de mandíbula muy fuerte.
+p:Qué sabes de cocodrilo?r:Reptil de mandíbula muy fuerte.
+p:Qué es serpiente?r:Reptil sin patas que muda la piel.
+p:Cómo es serpiente?r:Reptil sin patas que muda la piel.
+p:Cuál es una característica de serpiente?r:Reptil sin patas que muda la piel.
+p:Por qué se destaca serpiente?r:Reptil sin patas que muda la piel.
+p:Por qué es conocido serpiente?r:Reptil sin patas que muda la piel.
+p:Cómo se describe serpiente?r:Reptil sin patas que muda la piel.
+p:Dame una descripción breve de serpiente?r:Reptil sin patas que muda la piel.
+p:Háblame de serpiente?r:Reptil sin patas que muda la piel.
+p:Qué información básica tienes sobre serpiente?r:Reptil sin patas que muda la piel.
+p:Qué sabes de serpiente?r:Reptil sin patas que muda la piel.
+p:Qué es lagarto?r:Reptil escamoso de cuerpo alargado.
+p:Cómo es lagarto?r:Reptil escamoso de cuerpo alargado.
+p:Cuál es una característica de lagarto?r:Reptil escamoso de cuerpo alargado.
+p:Por qué se destaca lagarto?r:Reptil escamoso de cuerpo alargado.
+p:Por qué es conocido lagarto?r:Reptil escamoso de cuerpo alargado.
+p:Cómo se describe lagarto?r:Reptil escamoso de cuerpo alargado.
+p:Dame una descripción breve de lagarto?r:Reptil escamoso de cuerpo alargado.
+p:Háblame de lagarto?r:Reptil escamoso de cuerpo alargado.
+p:Qué información básica tienes sobre lagarto?r:Reptil escamoso de cuerpo alargado.
+p:Qué sabes de lagarto?r:Reptil escamoso de cuerpo alargado.
+p:Qué es lobo?r:Cánido que vive en manadas.
+p:Cómo es lobo?r:Cánido que vive en manadas.
+p:Cuál es una característica de lobo?r:Cánido que vive en manadas.
+p:Por qué se destaca lobo?r:Cánido que vive en manadas.
+p:Por qué es conocido lobo?r:Cánido que vive en manadas.
+p:Cómo se describe lobo?r:Cánido que vive en manadas.
+p:Dame una descripción breve de lobo?r:Cánido que vive en manadas.
+p:Háblame de lobo?r:Cánido que vive en manadas.
+p:Qué información básica tienes sobre lobo?r:Cánido que vive en manadas.
+p:Qué sabes de lobo?r:Cánido que vive en manadas.
+p:Qué es zorro?r:Cánido conocido por su astucia.
+p:Cómo es zorro?r:Cánido conocido por su astucia.
+p:Cuál es una característica de zorro?r:Cánido conocido por su astucia.
+p:Por qué se destaca zorro?r:Cánido conocido por su astucia.
+p:Por qué es conocido zorro?r:Cánido conocido por su astucia.
+p:Cómo se describe zorro?r:Cánido conocido por su astucia.
+p:Dame una descripción breve de zorro?r:Cánido conocido por su astucia.
+p:Háblame de zorro?r:Cánido conocido por su astucia.
+p:Qué información básica tienes sobre zorro?r:Cánido conocido por su astucia.
+p:Qué sabes de zorro?r:Cánido conocido por su astucia.
+p:Qué es castor?r:Roedor que construye represas.
+p:Cómo es castor?r:Roedor que construye represas.
+p:Cuál es una característica de castor?r:Roedor que construye represas.
+p:Por qué se destaca castor?r:Roedor que construye represas.
+p:Por qué es conocido castor?r:Roedor que construye represas.
+p:Cómo se describe castor?r:Roedor que construye represas.
+p:Dame una descripción breve de castor?r:Roedor que construye represas.
+p:Háblame de castor?r:Roedor que construye represas.
+p:Qué información básica tienes sobre castor?r:Roedor que construye represas.
+p:Qué sabes de castor?r:Roedor que construye represas.
+p:Qué es nutria?r:Mamífero acuático que usa herramientas.
+p:Cómo es nutria?r:Mamífero acuático que usa herramientas.
+p:Cuál es una característica de nutria?r:Mamífero acuático que usa herramientas.
+p:Por qué se destaca nutria?r:Mamífero acuático que usa herramientas.
+p:Por qué es conocido nutria?r:Mamífero acuático que usa herramientas.
+p:Cómo se describe nutria?r:Mamífero acuático que usa herramientas.
+p:Dame una descripción breve de nutria?r:Mamífero acuático que usa herramientas.
+p:Háblame de nutria?r:Mamífero acuático que usa herramientas.
+p:Qué información básica tienes sobre nutria?r:Mamífero acuático que usa herramientas.
+p:Qué sabes de nutria?r:Mamífero acuático que usa herramientas.
+p:Qué es pavo real?r:Ave famosa por su cola colorida.
+p:Cómo es pavo real?r:Ave famosa por su cola colorida.
+p:Cuál es una característica de pavo real?r:Ave famosa por su cola colorida.
+p:Por qué se destaca pavo real?r:Ave famosa por su cola colorida.
+p:Por qué es conocido pavo real?r:Ave famosa por su cola colorida.
+p:Cómo se describe pavo real?r:Ave famosa por su cola colorida.
+p:Dame una descripción breve de pavo real?r:Ave famosa por su cola colorida.
+p:Háblame de pavo real?r:Ave famosa por su cola colorida.
+p:Qué información básica tienes sobre pavo real?r:Ave famosa por su cola colorida.
+p:Qué sabes de pavo real?r:Ave famosa por su cola colorida.
+p:Qué es flamenco?r:Ave de plumaje rosado.
+p:Cómo es flamenco?r:Ave de plumaje rosado.
+p:Cuál es una característica de flamenco?r:Ave de plumaje rosado.
+p:Por qué se destaca flamenco?r:Ave de plumaje rosado.
+p:Por qué es conocido flamenco?r:Ave de plumaje rosado.
+p:Cómo se describe flamenco?r:Ave de plumaje rosado.
+p:Dame una descripción breve de flamenco?r:Ave de plumaje rosado.
+p:Háblame de flamenco?r:Ave de plumaje rosado.
+p:Qué información básica tienes sobre flamenco?r:Ave de plumaje rosado.
+p:Qué sabes de flamenco?r:Ave de plumaje rosado.
+p:Qué es gorila?r:Gran primate social y fuerte.
+p:Cómo es gorila?r:Gran primate social y fuerte.
+p:Cuál es una característica de gorila?r:Gran primate social y fuerte.
+p:Por qué se destaca gorila?r:Gran primate social y fuerte.
+p:Por qué es conocido gorila?r:Gran primate social y fuerte.
+p:Cómo se describe gorila?r:Gran primate social y fuerte.
+p:Dame una descripción breve de gorila?r:Gran primate social y fuerte.
+p:Háblame de gorila?r:Gran primate social y fuerte.
+p:Qué información básica tienes sobre gorila?r:Gran primate social y fuerte.
+p:Qué sabes de gorila?r:Gran primate social y fuerte.
+p:Qué es orangután?r:Gran simio arborícola muy inteligente.
+p:Cómo es orangután?r:Gran simio arborícola muy inteligente.
+p:Cuál es una característica de orangután?r:Gran simio arborícola muy inteligente.
+p:Por qué se destaca orangután?r:Gran simio arborícola muy inteligente.
+p:Por qué es conocido orangután?r:Gran simio arborícola muy inteligente.
+p:Cómo se describe orangután?r:Gran simio arborícola muy inteligente.
+p:Dame una descripción breve de orangután?r:Gran simio arborícola muy inteligente.
+p:Háblame de orangután?r:Gran simio arborícola muy inteligente.
+p:Qué información básica tienes sobre orangután?r:Gran simio arborícola muy inteligente.
+p:Qué sabes de orangután?r:Gran simio arborícola muy inteligente.
+p:Qué es chimpancé?r:Primate con alta capacidad de aprendizaje.
+p:Cómo es chimpancé?r:Primate con alta capacidad de aprendizaje.
+p:Cuál es una característica de chimpancé?r:Primate con alta capacidad de aprendizaje.
+p:Por qué se destaca chimpancé?r:Primate con alta capacidad de aprendizaje.
+p:Por qué es conocido chimpancé?r:Primate con alta capacidad de aprendizaje.
+p:Cómo se describe chimpancé?r:Primate con alta capacidad de aprendizaje.
+p:Dame una descripción breve de chimpancé?r:Primate con alta capacidad de aprendizaje.
+p:Háblame de chimpancé?r:Primate con alta capacidad de aprendizaje.
+p:Qué información básica tienes sobre chimpancé?r:Primate con alta capacidad de aprendizaje.
+p:Qué sabes de chimpancé?r:Primate con alta capacidad de aprendizaje.
+p:Qué es dromedario?r:Camélido de una sola joroba.
+p:Cómo es dromedario?r:Camélido de una sola joroba.
+p:Cuál es una característica de dromedario?r:Camélido de una sola joroba.
+p:Por qué se destaca dromedario?r:Camélido de una sola joroba.
+p:Por qué es conocido dromedario?r:Camélido de una sola joroba.
+p:Cómo se describe dromedario?r:Camélido de una sola joroba.
+p:Dame una descripción breve de dromedario?r:Camélido de una sola joroba.
+p:Háblame de dromedario?r:Camélido de una sola joroba.
+p:Qué información básica tienes sobre dromedario?r:Camélido de una sola joroba.
+p:Qué sabes de dromedario?r:Camélido de una sola joroba.
+p:Qué es camello?r:Camélido de dos jorobas.
+p:Cómo es camello?r:Camélido de dos jorobas.
+p:Cuál es una característica de camello?r:Camélido de dos jorobas.
+p:Por qué se destaca camello?r:Camélido de dos jorobas.
+p:Por qué es conocido camello?r:Camélido de dos jorobas.
+p:Cómo se describe camello?r:Camélido de dos jorobas.
+p:Dame una descripción breve de camello?r:Camélido de dos jorobas.
+p:Háblame de camello?r:Camélido de dos jorobas.
+p:Qué información básica tienes sobre camello?r:Camélido de dos jorobas.
+p:Qué sabes de camello?r:Camélido de dos jorobas.
+p:Qué es caballo?r:Mamífero doméstico usado para transporte.
+p:Cómo es caballo?r:Mamífero doméstico usado para transporte.
+p:Cuál es una característica de caballo?r:Mamífero doméstico usado para transporte.
+p:Por qué se destaca caballo?r:Mamífero doméstico usado para transporte.
+p:Por qué es conocido caballo?r:Mamífero doméstico usado para transporte.
+p:Cómo se describe caballo?r:Mamífero doméstico usado para transporte.
+p:Dame una descripción breve de caballo?r:Mamífero doméstico usado para transporte.
+p:Háblame de caballo?r:Mamífero doméstico usado para transporte.
+p:Qué información básica tienes sobre caballo?r:Mamífero doméstico usado para transporte.
+p:Qué sabes de caballo?r:Mamífero doméstico usado para transporte.
+p:Qué es vaca?r:Mamífero de granja que produce leche.
+p:Cómo es vaca?r:Mamífero de granja que produce leche.
+p:Cuál es una característica de vaca?r:Mamífero de granja que produce leche.
+p:Por qué se destaca vaca?r:Mamífero de granja que produce leche.
+p:Por qué es conocido vaca?r:Mamífero de granja que produce leche.
+p:Cómo se describe vaca?r:Mamífero de granja que produce leche.
+p:Dame una descripción breve de vaca?r:Mamífero de granja que produce leche.
+p:Háblame de vaca?r:Mamífero de granja que produce leche.
+p:Qué información básica tienes sobre vaca?r:Mamífero de granja que produce leche.
+p:Qué sabes de vaca?r:Mamífero de granja que produce leche.
+p:Qué es oveja?r:Animal de granja que da lana.
+p:Cómo es oveja?r:Animal de granja que da lana.
+p:Cuál es una característica de oveja?r:Animal de granja que da lana.
+p:Por qué se destaca oveja?r:Animal de granja que da lana.
+p:Por qué es conocido oveja?r:Animal de granja que da lana.
+p:Cómo se describe oveja?r:Animal de granja que da lana.
+p:Dame una descripción breve de oveja?r:Animal de granja que da lana.
+p:Háblame de oveja?r:Animal de granja que da lana.
+p:Qué información básica tienes sobre oveja?r:Animal de granja que da lana.
+p:Qué sabes de oveja?r:Animal de granja que da lana.
+p:Qué es cerdo?r:Mamífero omnívoro de granja.
+p:Cómo es cerdo?r:Mamífero omnívoro de granja.
+p:Cuál es una característica de cerdo?r:Mamífero omnívoro de granja.
+p:Por qué se destaca cerdo?r:Mamífero omnívoro de granja.
+p:Por qué es conocido cerdo?r:Mamífero omnívoro de granja.
+p:Cómo se describe cerdo?r:Mamífero omnívoro de granja.
+p:Dame una descripción breve de cerdo?r:Mamífero omnívoro de granja.
+p:Háblame de cerdo?r:Mamífero omnívoro de granja.
+p:Qué información básica tienes sobre cerdo?r:Mamífero omnívoro de granja.
+p:Qué sabes de cerdo?r:Mamífero omnívoro de granja.
+p:Qué es llama?r:Camélido andino usado como carga.
+p:Cómo es llama?r:Camélido andino usado como carga.
+p:Cuál es una característica de llama?r:Camélido andino usado como carga.
+p:Por qué se destaca llama?r:Camélido andino usado como carga.
+p:Por qué es conocido llama?r:Camélido andino usado como carga.
+p:Cómo se describe llama?r:Camélido andino usado como carga.
+p:Dame una descripción breve de llama?r:Camélido andino usado como carga.
+p:Háblame de llama?r:Camélido andino usado como carga.
+p:Qué información básica tienes sobre llama?r:Camélido andino usado como carga.
+p:Qué sabes de llama?r:Camélido andino usado como carga.
